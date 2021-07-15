@@ -255,7 +255,7 @@ include_graphics(path = "figure/placeholder.png")
 
 Cells of _T. pantotropha_ $\Delta7$ that contained pMMBSEK grew normally and reached a similar
 final optical density to the wild-type culture. The nitrite concentration in the culture medium
-from _T. pantotropha_ $\Delta7$ [PMMBSEK] also followed a similar time course to that in wild-
+from _T. pantotropha_ $\Delta7$ [pMMBSEK] also followed a similar time course to that in wild-
 type culture (Figure 6.15).
 
 ```{r fig6-15, fig.cap="(a) Anaerobic growth of _T. pantotropha_ $\\Delta7$ [pMMBSEK] and (b) nitrite concentration in the medium during growth. An overnight culture of _T. pantotropha_ $\\Delta7$ [pMMBSEK] was inoculated 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples were removed at each time point, centrifuged and the supernatant was assayed colorimetrically for nitrite.", fig.align='center', echo=FALSE}
@@ -266,7 +266,7 @@ A soluble extract was prepared from _T. pantotropha_ [pMMBSEK] and probed for cy
 mature cytochrome _cd_$_1$ was restored to the cells by pMMBSEK and the 63 kDa band stained
 slightly more strongly in this extract than in the wild-type lane (Figure 6.13). The 47 kDa
 hand observed in the extract from the deletion mutant _T. pantotropha_ $\Delta7$ was also observed
-in the sample from _T. pantotropha_ $\Delta7$ [PMMBSEK].
+in the sample from _T. pantotropha_ $\Delta7$ [pMMBSEK].
 
 ### Construction of a cytochrome _cd_$_1$ mutant in which Tyr-25 is replaced by phenylalanine and expression of the mutant in _T. pantotropha_ $\Delta7$
 Once it had been demonstrated that the _nirS_ deletion mutant could be complemented
@@ -327,7 +327,7 @@ minimal succinate medium plus nitrate containing 100 $\mu$g ml$^{-1}$ kanamycin 
 include_graphics(path = "figure/placeholder.png")
 ```
 
-Growth of _T. pantotropha_ $\Delta7$ [PMMBY25F] was virtually indistinguishable from that of the
+Growth of _T. pantotropha_ $\Delta7$ [pMMBY25F] was virtually indistinguishable from that of the
 deletion mutants. Additionally, nitrite accumulated in the culture medium of _T. pantotropha_
 [pMMBY25F] to almost 20 mM just as was seen in the deletion mutant cultures (Figure
 6.20b). A total soluble extract was prepared from _T. pantotropha_ $\Delta7$ [pMMBY25F] and
@@ -584,7 +584,7 @@ of cytochrome _cd_$_1$, which is likely to be the physiologically-relevant form 
 at least some degree of complementation using pMMBY25F might have been expected, had
 the Y25F mutant been active.
 
-The growth of _T. pantotropha_ $\Delta7$ [PMMBY25F] is essentially identical to that of the
+The growth of _T. pantotropha_ $\Delta7$ [pMMBY25F] is essentially identical to that of the
 deletion mutant alone and some interesting observations can be made concerning the
 cytochrome content of the cells. First, a small _c_-type cytochrome was observed
 (approximately 16 kDa on SDS-PAGE) which bound only weakly to the DEAE-Sepharose
