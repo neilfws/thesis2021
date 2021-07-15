@@ -378,11 +378,11 @@ table7_1 <- data.frame(`Regulatory protein` = c("FnrP", "Nnr", "NosR", "NirI", "
                                                                      "Membrane-bound. Iron-sulphur cluster. Helix-turn-helix DNA-binding motif.",
                                                                      "Membrane-bound. Iron-sulphur cluster. Less clear helix-turn-helix DNA-binding motif than NosR.",
                                                                      "Cytoplasmic. Nucleotide-binding motif. Less clear DNA-binding motif than NirQ."),
-                       `Comments and references` = c("_P. denitrificans_ homologue of the _E. coli_ FNR protein. Regulates transcription of membrane-bound nitrate reductase, cytochrome _c_ peroxidase and _cbb_$_3$-type cytochrome _c_ oxidase (van Spanning et al. 1997).",
-                                                     "Homologue of FNR, specifically regulates transcription of nitrite and nitric oxide reductases (van Spanning et al. 1995).",
-                                                     "Identified in _P. denitrificans_ but not characterised (Hoeren et al. 1993). Homologue in _Ps. stutzeri_ regulates transcription of nitrous oxide reductase (Cuypers et al. 1992).",
-                                                     "Homologue of NosR, but not well characterised. Regulates transcription of nitrite reductase (de Boer et al. 1994).",
-                                                     "Identified in _P. denitrificans_ but not well characterised. Mutants have reduced levels of nitrite and nitric oxide reductases (de Boer et al. 1996). _Ps. stutzeri_ homologue, NirQ, resembles NtrC family of transcriptional activators, mutants have reduced nitrite and nitric oxide reductase activity but similar level of the proteins (Jüngst and Zumft 1992)."),
+                       `Comments and references` = c("_P. denitrificans_ homologue of the _E. coli_ FNR protein. Regulates transcription of membrane-bound nitrate reductase, cytochrome _c_ peroxidase and _cbb_$_3$-type cytochrome _c_ oxidase (van Spanning et al. 1997) [@van_spanning_fnrp_1997].",
+                                                     "Homologue of FNR, specifically regulates transcription of nitrite and nitric oxide reductases (van Spanning et al. 1995) [@van_spanning_nitrite_1995].",
+                                                     "Identified in _P. denitrificans_ but not characterised (Hoeren et al. 1993) [@hoeren_sequence_1993]. Homologue in _Ps. stutzeri_ regulates transcription of nitrous oxide reductase (Cuypers et al. 1992) [@cuypers_nosr_1992].",
+                                                     "Homologue of NosR, but not well characterised. Regulates transcription of nitrite reductase (de Boer et al. 1994) [@de_boer_isolation_1994].",
+                                                     "Identified in _P. denitrificans_ but not well characterised. Mutants have reduced levels of nitrite and nitric oxide reductases (de Boer et al. 1996) [@de_boer_mutational_1996]. _Ps. stutzeri_ homologue, NirQ, resembles NtrC family of transcriptional activators, mutants have reduced nitrite and nitric oxide reductase activity but similar level of the proteins (Jüngst and Zumft 1992) [@jungst_interdependence_1992]."),
                        check.names = FALSE)
 
 kable(table7_1,
