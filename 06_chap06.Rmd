@@ -74,7 +74,7 @@ table6_1 <- data.frame(`Plasmid name` = c("pUC4K", "pGEM5zf(+)", "pGRPd1", "pRVS
                                        "",
                                        "_T. pantotropha_ containing kanamycin resistance gene in promoter region of _nirI_",
                                        "_T. pantotropha_ containing a 382 bp deletion in the _nirS_ gene"),
-                       `Source or reference` = c("Pharmacia", " Promega", "Van Spanning et al. (1990)", "Van Spanning et al. (1991a)", "Fürste et al. (1986)", "Promega", "Obtained from Thon de Boer, Vrije Universiteit, Amsterdam", "This work (Chapter 4)", "This work", "This work", "This work", "This work", "This work", "This work (Chapter 4)", "This work, obtained from Dr. Simon Baker", "This work", "This work", "This work", "This work", "", "This work", "This work"),
+                       `Source or reference` = c("Pharmacia", " Promega", "Van Spanning et al. (1990) [@van_spanning_mutagenesis_1990]", "Van Spanning et al. (1991a) [@van_spanning_method_1991]", "Fürste et al. (1986) [@furste_molecular_1986]", "Promega", "Obtained from Thon de Boer, Vrije Universiteit, Amsterdam", "This work (Chapter 4)", "This work", "This work", "This work", "This work", "This work", "This work (Chapter 4)", "This work, obtained from Dr. Simon Baker", "This work", "This work", "This work", "This work", "", "This work", "This work"),
                        check.names = FALSE)
 
 kable(table6_1,
