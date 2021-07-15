@@ -1,0 +1,109 @@
+# Preliminary Content {-}
+
+`r if(!knitr:::is_latex_output()) '## Abstract {-}'`
+
+The _nirS_ gene, which encodes the enzyme cytochrome _cd_<sub>1</sub> nitrite reductase in the denitrifying
+bacterium _Thiosphaera pantotropha_, was cloned and sequenced. The sequence of this
+cytochrome _cd_<sub>1</sub> was found to be very similar to those of the proteins not only from the
+closely-related organism _P. denitrificans_ but also several other species of bacteria. However,
+the N-terminal region of these proteins shows less similarity than the overall protein
+sequence. Furthermore, sequence analysis in combination with spectroscopic and structural
+data indicates that the ligands to the _c_- and _d_<sub>1</sub>-haem groups are not identical in cytochromes
+_cd_<sub>1</sub> from different sources. Implications for the mechanism of the enzyme are discussed.
+
+Three different approaches were taken to the problem of expressing recombinant
+cytochrome _cd_<sub>1</sub> from the cloned _nirS_ gene. First, the gene was expressed in _Escherichia coli_,
+yielding a semi-apo enzyme that contained only the _c_-type haem. The protein could be
+reconstituted to some degree using purified haem _d_<sub>1</sub>, producing an enzyme with some of the
+spectroscopic features of the native holoenzyme and around 50% of the native nitrite
+reductase activity. This approach should be of use in the future expression of site-directed
+mutants of cytochrome _cd_<sub>1</sub>, which would be structurally unstable or enzymically inactive if
+expressed as the holoenzyme in a heterologous denitrifying host.
+
+Second, the _T. pantotropha_ _nirS_ gene was expressed in the denitrifying bacterium _Ps. aeruginosa_ which synthesises an endogenous cytochrome _cd_<sub>1</sub>. Under the growth conditions employed, a mixture of holo- and semi-apo recombinant cytochrome _cd_<sub>1</sub> was produced. Differences in the visible spectrum of the holoenzyme and attenuated nitrite reductase and cytochrome _c_ oxidase activities suggested that it was not fully assembled in this system. However, the system may be of use in distinguishing site-directed mutants of the enzyme that are enzymically inactive from those that retain some activity.
+
+Third, an unmarked deletion was constructed in the genomic copy of the _T. pantotropha_ _nirS_ gene which abolished the synthesis of cytochrome _cd_<sub>1</sub>. It then proved possible to restore denitrifying growth to the mutant by complementation with the cloned wild-type _nirS_ gene. However, complementation using a site-directed mutant of cytochrome _cd_<sub>1</sub>, in which the _d_<sub>1</sub> haem ligand Tyr-25 was replaced with phenylalanine failed to restore growth and the cells contained greatly attenuated levels of the mutant cytochrome _cd_<sub>1</sub>. Possible reasons for this result are discussed. These data illustrate the problem of finding an expression system that can synthesise the holoenzyme but does not rely upon its activity to maintain the growth of the host organism.
+
+The transcription start site of the _nirS_ gene was determined using 5'-RACE and primer
+extension. The _nirS_ gene was found to be transcribed as a monocistronic mRNA.
+Comparison of the upstream region of the _nirS_ gene with other denitrification genes indicates
+a common mechanism of transcriptional regulation and suggests that such genes may be
+transcribed using a specific sigma factor.
+
+## Acknowledgements {-}
+
+My thanks first to Stuart, for taking me on in the first place, organising the funding and for his advice and encouragement during the project, particularly in the writing of this thesis. Thanks are also due to the Wellcome Trust, for their absurdly generous studentship, to Graham Pettigrew, who got me into bacterial _c_-type cytochromes in the first place, and to Thon de Boer, for his cytochrome _cd_<sub>1</sub> antibody and for the gift of pTNIR3, the plasmid that saved the project! Thanks too, to Val for a huge number of perfect primers and to Colin for excellent photography.
+
+Lab 5-9 has been graced by a number of wonderful postdocs; my thanks especially to Simon, for his support throughout the project and for not laughing (too much) during my transformation (ho ho) to a molecular biologist. And a big thank-you to Dudley, for advice on almost everything and conversation during the late nights, long weekends and even the more normal times of day. Variety has certainly been the spice of life in 5-9 thanks to Dave, Ben, Yoshi, Fiona, Alrik, Neeti, Isobel, our latest arrivals and all our visiting students. Outside of 5-9, thanks especially to Pam, Vilmos and Janos, Andy, the 6th floor crowd and of course Gerry and Rachel for much-needed caffeine and sugar, with a smile.
+
+On the brief occasions that I escaped to the world outside, the Oxford “1st wave”, John, Hannah, Jacqui, Caroline and Sara had a lot to answer for. Thanks too to the Oxford “2nd wave”, especially Mat and Lucy, Jem and Lisa, Ralph, Charlie, Craig, Mark and Amanda and of course Marian, for rescuing me and making me realise it wasn't all bad! Most of all, thanks to the folks in Edinburgh, for great holidays, time spent amongst mountains, accommodation, beers, entertainment and empathy: Mark, Leo, Jo, Anita and Lorna, and to my fellow "refugees in England” or further abroad; Mary Jane, James and Nim, Marc and Karen, and Colin and Michelle. I'd never have made it without all of you. I must also thank Mark E. Smith and The Fall, for twenty years of brilliant records.
+
+Last, but definitely not least, a big thank-you to my parents, for all their support over the last eight years. I guess this is for you.
+
+## Publications {-}
+
+Some of the work in this thesis has been published.
+
+1. Baker, S.C., Saunders, N.F.W., Willis, A.C., Ferguson, S.J., Hajdu, J. and Fülöp, V. (1997). Cytochrome _cd_<sub>1</sub> structure: unusual haem environments in a nitrite reductase and analysis of factors contributing to β-propeller folds. J. Mol. Biol. 269: 440-455.
+
+2. Williams, P.A., Fülöp, V., Garman, E.F., Saunders, N.F.W., Ferguson, S.J. and Hajdu, J. (1997). Haem-ligand switching during catalysis in crystals of a nitrogen cycle enzyme. Nature 389: 406-412.
+
+**Conference abstract**
+
+3. Baker, S.C., Saunders, N., Fülöp, V., Hajdu, J. and Ferguson, S.J. (1995). The structure of _cd_<sub>1</sub> nitrite reductase and analysis of the nirS gene of the denitrifying bacterium _Thiosphaera pantotropha_. Poster presented at the Beijerinck Centennial Conference on Microbial Physiology and Gene Regulation: Emerging Principles and Applications. 10-14 December 1995, The Hague, The Netherlands.
+
+**Publications not directly related to the present work**
+
+4. Goodhew, C.F., Pettigrew, G.W., Devreese, B., Beeumen, J.V., van Spanning, R.J.M., Baker, S.C., Saunders, N.F.W., Ferguson, S.J. and Thompson, I.P. (1996). The cytochromes _c_-550 of _Paracoccus denitrificans_ and _Thiosphaera pantotropha_: a need for re-evaluation of the history of _Paracoccus cultures_. FEMS Microbiol. Letts. 137: 95-101.
+
+5. Page, M.D., Saunders, N.F.W. and Ferguson, S.J. (1997). Disruption of the _Pseudomonas aeruginosa dipZ_ gene, encoding a putative protein-disulfide reductase, leads to partial pleiotropic deficiency in _c_-type cytochrome biogenesis. Microbiol. 143: 3111-3122.
+
+6. Hu, W., Van Driessche, G., Devreese, B., Goodhew, C.F., McGinnity, D.F., Saunders, N., Fülöp, V., Pettigrew, G.W. and Van Beeumen, J.J. (1997). Structural characterization of _Paracoccus denitrificans_ cytochrome _c_ peroxidase and assignment of the low and high potential heme sites. Biochemistry 36: 7958-7966.
+
+## List of Abbreviations {-}
+
+|Abbreviation|Meaning|
+|:-|-:|
+|AMV|Avian myeloblastosis virus|
+|ATP|Adenosine triphosphate|
+|A$_{xxx}$|Absorbance at wavelength XXX nm|
+|bp|Base pairs|
+|BSA|Bovine serum albumin|
+|DEAE|Diethylaminoethyl|
+|$\Delta$_G_°'|Standard Gibbs free energy change at pH 7.0|
+|DIG|Digoxigenin|
+|DIG-11-dUTP|Digoxigenin-11-deoxyuridine triphosphate|
+|DMSO|Dimethylsulphoxide|
+|DNase|Deoxyribonuclease|
+|dNTP|Deoxynucleotide triphosphate|
+|DTT|Dithiothreitol|
+|e$^-$|Electron|
+|_E_°'|Standard redox potential at pH 7.0|
+|EPR|Electron paramagnetic resonance|
+|IPTG|Isopropylthio-$\beta$-D-galactoside|
+|LB|Luria Bertani|
+|MCD|Magnetic circular dichroism|
+|MGD|Molybdopterin guanine dinucleotide|
+|MMLV|Moloney murine leukaemia virus|
+|Na$_2$EDTA/EDTA|Disodium ethylenediamine tetraacetic acid|
+|NAD|Nicotinamide adenine dinucleotide|
+|NMR|Nuclear magnetic resonance|
+|O.D. (xxx)|Optical density at XXX nm|
+|PBS|Phosphate buffered saline|
+|PCR|Polymerase chain reaction|
+|PEG|Polyethylene glycol|
+|RNase|Ribonuclease|
+|SDS-PAGE|Sodium dodecyl sulphate polyacrylamide gel electrophoresis|
+|SSC|0.15 M NaCl, 0.15 mM sodium citrate|
+|TAE|40 mM Tris-acetate pH 8.0, 1 mM EDTA|
+|TBE|45 mM Tris-borate pH 8.3, 1 mM EDTA|
+|TE|10 mM Tris-HCl, 1 mM EDTA |
+|TEMED|N, N, N’, N’-tetramethylethylenediamine|
+|UQ/UQH$_2$|Ubiquinone/ubiquinol |
+|X-Gal|5-bromo-4-chloro-3-indolyl-$\beta$-D-galactoside|
+
+## Quote {-}
+
+>If we do not succeed, then we run the risk of failure”
+
+_Former U.S. Vice-President Dan Quayle, 1990 (attrib.)_

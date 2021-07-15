@@ -1,0 +1,11 @@
+.book .book-body .page-wrapper .page-inner {
+  max-width: 1200px !important;
+}
+
+p.caption {
+  font-size: 0.8em;
+}
+
+caption {
+  font-size: 0.8em;
+}
