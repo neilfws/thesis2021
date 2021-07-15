@@ -21,13 +21,13 @@ It therefore became necessary to obtain a genomic clone of the *nirS* gene. Prob
 Plasmid pTNIR3 was analysed by restriction mapping so as to determine the best way of generating a fragment containing the *nirS* gene for further work. Figure 4.1 shows a restriction map of pTNIR3 obtained using six enzymes.
 
 ```{r fig4-1, fig.cap="Physical map of the plasmid pTNIR3 produced using six restriction enzymes. Plasmid pTNIR3, containing the _nirS_ gene from _T. pantotropha_, was obtained from Thon de Boer, Vrije Universiteit, Amsterdam. It consists of a 7.5 kbp _SphI_ fragment of genomic DNA cloned in pGEM7zf (+). The plasmid was digested with 6 enzymes, both singly and in combination, and the fragments sized by agarose gel electrophoresis to generate the map. Enzyme abbreviations: Sp, _SphI_; B, _BamHI_; E, _EcoRI_; H, _HindIII_; P, _PstI_; S, _SalI_", fig.align="center", echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 This indicated that the 7.5 kbp insert could be conveniently cut into two fragments of 5.1 kbp and 2.4 kbp using *PstI* and *SphI*. These fragments were cloned into the pBS(-) plasmid and the ends of the inserts were sequenced using universal M13 primers. The restriction mapping data in conjunction with the partial DNA sequences were used to align the plasmid pTNIR3 and its derivatives with the sequence of the *nir* region from *P. denitrificans* PD1222 (de Boer et al., 1994 [@de_boer_isolation_1994]), as shown in Figure 4.2.
 
 ```{r fig4-2, fig.cap="Location of denitrification genes of _T. pantotropha_ on the plasmid pTNIR3 as determined by physical mapping and limited sequencing. Plasmid pTNIR3 was digested with _PstI_ and _SphI_ and the fragments were sub-cloned into pBS(-). The ends of the fragments were then sequenced using M13 universal primers. The plasmids pTNIR3, pB5K and pBNIR are aligned to previously published sequence from _P. denitrificans_ PD1222, covering the _nir_ and _nor_ loci (U05002 and U28078 respectively). No direct evidence was obtained for the presence of the _nirJ_ gene in _pTNIR3_, although it is assumed to be present by analogy to _P. denitrificans_ PD1222 (de Boer 1996) [@de_boer_regulation_1996].", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 The 5.1 kbp fragment lies upstream of the *nirS* gene and by analogy to *P. denitrificans* PD1222 would contain the genes *nirI*, *nirJ*, *norС* and part of the *norB* gene, in which lies the *SphI* site. The plasmid containing this fragment is designated pB5K. The 2.4 kbp fragment contains the *nirS* gene, with the *PstI* site at the 5'-end of the gene, just upstream of the NNR box, and the *SphI* site lying in the early region of the downstream *nirE* gene. This plasmid was designated pBNIR and was selected for further sub-cloning and expression experiments.
@@ -37,7 +37,7 @@ The 5.1 kbp fragment lies upstream of the *nirS* gene and by analogy to *P. deni
 The broad host range expression plasmid pMMB67EH (Fürste et al., 1986 [@furste_molecular_1986]) was chosen as a suitable vector for expression experiments. A diagram of the vector is shown in Figure 4.3.
 
 ```{r fig4-3, fig.cap="Diagram of the broad host range expression vector pMMB67EH, showing relevant features. pMMB67EH (Fürste et al., 1986 [@furste_molecular_1986]) was used for cloning and expression of the _nirS_ gene from _T. pantotropha_. Features are described fully in the main text and are as Tollows: _bla_, $\beta$-lactamase gene conferring ampicillin resistance, P$_{tac}$, _tac_ promoter, _rrnB_, terminator derived from the _E. coli_ 5S rRNA gene, _oriV_, vegetative origin of replication, _oriT_, origin of transfer, _lacI_$^q$, over-produced form of the _lacI_ repressor protein. The vector contains an mp18 multiple cloning site and 6 of the restriction enzyme sites that cut in this region are indicated.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 It contains a number of useful features, which are as follows: (1) A *tac* promoter, which is a strong hybrid promoter constructed from the *trp* and *lac* promoters (de Boer et al., 1983 [@de_boer_tac_1983]) for driving transcription, (2) the mp18 multiple cloning site which is compatible with the pBS(-) plasmid, in two possible orientations (these are designated pMMB67EH and HE), (3) a transcriptional terminator, derived from the *rrnB* gene, (4) the $\beta$-lactamase gene conferring ampicillin resistance, (5) the *lacI*$^q$ gene, encoding a mutant form of the *lacI* repressor (Gronenborn, 1976 [@gronenborn_overproduction_1976]) which is overproduced to prevent transcription in the absence of IPTG and (6) an origin of transfer, *oriT*, allowing transfer of the plasmid to other Gram-negative species by conjugation (Derbyshire and Willetts, 1987 [@derbyshire_mobilization_1987]). This last feature allows the use of the same construct to investigate expression in other bacteria, which is described in Chapters 5 and 6.
@@ -45,13 +45,13 @@ It contains a number of useful features, which are as follows: (1) A *tac* promo
 In theory the 2.4 kbp *PstI-SphI* fragment derived from the plasmid pBNIR should be easily cloned into the mp18 cloning site of pMMB67EH. However, difficulty was experienced due to the problem of vector carryover as shown in Figure 4.4.
 
 ```{r fig4-4, fig.cap="Restriction digests illustrating the problem of vector carryover during cloning of the _T. pantotropha_ _nirS_ gene into pMMB67EH. A 2.4 kbp _PstI-SphI_ fragment of pBNIR was isolated and used in a ligation reaction with pMMB67EH, also digested with _PstI-SphI_. _E. coli_ JM83 was then transformed with the ligation mix and ampicillin resistant clones screened for the presence of the desired plasmid by restriction digests using _PstI_ plus _SphI_ and electrophoresis on a 0.8% agarose gel. However, in this case, all the plasmids recovered are either the original pBNIR plasmid (lanes 3, 6 and 7) or the pMMB67EH plasmid (lanes 1, 2, 4, 5 and 8) that has re-ligated due to incomplete digestion. Solutions to the problem are described in the text. The gel is displayed as a negative image to show faint bands more clearly. Lanes labelled III and II contain DNA size standards, the sizes of some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 This problem occurs when a fragment of similar size to the vector fragment is isolated from an agarose gel. A small amount of vector can be carried over with the desired fragment and, as pBS(-) is smaller than pMMB67EH, religation of the original plasmid occurs with higher efficiency producing clones containing the original vector. This is a particular problem when the two vectors contain the same antibiotic resistance determinant (in this case ampicillin). To circumvent this problem, a kanamycin resistance cassette was inserted in the *PstI* site of pBNIR to give the plasmid pBNIRK. The cassette and *nirS* gene were then isolated together as an *XbaI-SphI* fragment and cloned into pMMB67EH. This step introduces a new antibiotic resistance determinant and also increases the size of the insert by 1.2 kbp, thus improving its separation from the vector fragment. Several positive clones were selected by kanamycin resistance. The isolated plasmid, pMMBSEK, was then cut with *PstI* and subjected to partial religation to remove the kanamycin cassette. Cells of *E. coli* JM83 were re-transformed and ampicillin resistant clones were streaked onto plates containing either ampicillin or ampicillin plus kanamycin. Kanamycin sensitive clones, which had lost the cassette, were re-isolated and the construct was confirmed by restriction digests (Figure 4.5).
 
 ```{r fig4-5, fig.cap="Restriction digest analysis of the plasmids pMMBSE and pMMBSEK. Digests of pMMBSE were performed using _SalI_ (S), _BamHI_ (B), _HindIII_ (H), _BglII_ (Bg), _EcoRI_ (E) and _PstI_ (P) and the fragments were separated by electrophoresis on a 0.8% agarose gel. The fragments shown above are of the expected sizes from the 2.4 kbp fragment of pBNIR, containing the _nirS_ gene, in pMMB67EH. Lane 7 contains a _HindIII_ digest of the plasmid pMMBSEK. This clearly shows an extra fragment of 1.38 kbp from pMMBSEK, which arises due to an extra _HindIII_ site in the centre of the kanamycin cassette. The lane labelled III contains DNA size markers, the sizes of some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 This procedure yielded two plasmids for further work: (1) pMMBSE, containing the *nirS* gene together with its upstream region (the NNR box and promoter region) and part of the downstream *nirE* gene, and (2) pMMBSEK, in which the *tac* promoter and the NNR box are separated by a kanamycin resistance cassette, transcribed in the same direction as the *nirS* gene. A list of the plasmids referred to in this chapter is given in Table 4.1.
@@ -87,13 +87,13 @@ kable(table4_2,
 50 ml of each medium was inoculated with a 1:100 dilution of overnight culture that had been grown in 1.5 ml LB medium plus appropriate antibiotics. Aerobic cultures were sampled every 30 minutes and the absorbance at 650 nm was recorded to give the growth curves shown in Figure 4.6.
 
 ```{r fig4-6, fig.cap="Comparison of the aerobic growth of _E. coli_, E. coli [pMMB67EH], _E. coli_ [pMMBSEK] and _E. coli_ [pMMBSE]. Overnight cultures of wild-type cells and those carrying plasmid were inoculated into LB medium at a dilution of 1/100 and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _E. coli_ JM83, (&#9632;) _E. coli_ [pMMB67EH], (&#9650;) _E. coli_ [pMMBSEK], (x) _E. coli_ [pMMBSEK] induced with 1 mM IPTG, (&#9633;) _E. coli_ [pMMBSE], (&#9679;) _E. coli_ [pMMBSE] induced with 1 mM IPTG.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Reliable growth curves were not obtained for the anaerobic cultures, because in the cultures containing the *nirS* gene the cells tended to sediment and adhere quite strongly to the lower wall of the culture tube. The cells could be resuspended by vigorous vortexing, but this was avoided to maintain anaerobic conditions in the tubes. Instead, anaerobic cultures were vortexed once after 12 hours to ascertain that they had entered early exponential phase. At this point, cultures containing *E. coli* [pMMBSE] and E. coli [pMMBSEK] were induced with 1 mM IPTG and the cultures were left overnight for a total of 24 hours. Comparison with the early growth curve of the anaerobic culture of *E. coli* [pMMB67EH] indicated that this growth period was sufficient to reach stationary phase without over-growth (Figure 4.7).
 
 ```{r fig4-7, fig.cap="Comparison of the anaerobic growth of _E. coli_ JM83 with that of _E. coli_ [pMMB67EH]. Overnight cultures of wild-type cells and those carrying pMMB67EH were inoculated into _E. coli_ anaerobic medium (Materials and Methods) and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). As explained in the main text, growth curves for cells containing the other plasmids, pMMBSE and pMMBSEK, could not be obtained. Symbols: (&#9670;) _E. coli_ JM83, (&#9632;) _E. coli_ [pMMB67EH].", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 After 24 hours, the cultures were vortexed to record the final optical density and then harvested. Aerobic cultures were harvested when judged to have just entered stationary phase. Total soluble extracts were prepared from each culture by sonication and ultracentrifugation of the lysate.
@@ -101,7 +101,7 @@ After 24 hours, the cultures were vortexed to record the final optical density a
 The protein profile in the extracts from each of the 12 cultures was first investigated using SDS-PAGE and staining for protein using Coomassie Blue (Figure 4.8).
 
 ```{r fig4-8, fig.cap="Comparison of the protein content of _E. coli_ JM83 with that of _E. coli_ [pMMB67EH], _E. coli_ [pMMBSEK] and _E. coli_ [pMMBSE]. 40 $\\mu$g of total protein per lane was separated by SDS-PAGE on an 8% acrylamide gel and the gel was stained for protein using Coomassie Brilliant Blue R-250. Lane M contains molecular weight markers, the sizes of some of which are indicated at the left of the gel. The lanes are labelled to indicate the growth conditions, plasmid present and presence or absence of IPTG. A 63 kDa band, corresponding to expressed _T. pantotropha_ cytochrome _cd_$_1$, is visible in lanes 4 and 8.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Equal amounts of protein from each sample were loaded in each lane and separated on 8% acrylamide gels. A band corresponding to the size of mature cytochrome *cd*$_1$ (63 kDa) was apparent only in the samples induced using IPTG from *E. coli* [pMMBSE], grown either aerobically or anaerobically, and is more prominent in the latter sample.
@@ -109,7 +109,7 @@ Equal amounts of protein from each sample were loaded in each lane and separated
 Next, an identical set of samples was separated by SDS-PAGE, transferred to nitrocellulose by semi-dry electroblotting and analysed by Western blotting using a mouse antibody to *P. denitrificans* PD1222 cytochrome *cd*$_1$ (obtained from Thon de Boer, Vrije Universiteit, Amsterdam). For comparison, a soluble extract from *T. pantotropha* grown anaerobically with nitrate was run on the same gel. Only the aerobic and anaerobic samples from *E. coli* [pMMBSE] that had been induced using IPTG gave a positive reaction for the presence of cytochrome *cd*$_1$ (Figure 4.9).
 
 ```{r fig4-9, fig.cap="Western blot of protein samples from _E. coli_ JM83, _E. coli_ [pMMB67EH], E. coli [pMMBSEK] and _E. coli_ [pMMBSE], probed using antibody to cytochrome _cd_$_1$. 40 $\\mu$g of protein from the cultures indicated above the lanes was separated by electrophoresis on an 8% SDS-PAGE gel and transferred to nitrocellulose by semi-dry electroblotting. The membrane was then probed a cytochrome _cd_$_1$ antibody, detected colorimetrically with a secondary antibody coupled to alkaline phosphatase, as detailed in Materials and Methods. The lane labelled Tp contained 20 $\\mu$g of protein from a soluble extract of wild-type _T. pantotropha_ grown anaerobically with nitrate.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 The band in the anaerobic sample was somewhat stronger than that in the aerobic lane, and both bands ran at the same position as the wild type protein.
@@ -117,7 +117,7 @@ The band in the anaerobic sample was somewhat stronger than that in the aerobic 
 Finally, the samples were analysed for the presence of *c*-type cytochromes by SDS PAGE followed by haem staining. A sample of purified cytochrome *cd*$_1$ from *T. pantotropha* was run on this gel for comparison (Figure 4.10).
 
 ```{r fig4-10, fig.cap="Comparison of the _c_-type cytochrome content of _E. coli_ [pMMBSE] grown under aerobic or anaerobic conditions. 100 $\\mu$g of protein from the soluble extracts indicated was separated by electrophoresis on an 8% SDS-PAGE gel and stained for the presence of covalently-attached haem using tetramethylbenzidine and H$_2$O$_2$, as described in Materials and Methods. The lane labelled Tp contained 5 $\\mu$g of purified cytochrome _cd_$_1$ for comparison.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Once again, the only positive lanes were those containing protein samples from *E. coli* [pMMBSE] grown either aerobically or anaerobically. The anaerobic sample stained appreciably more strongly than the aerobic sample, and the mobilities of the haem stained bands were identical to that of the wild-type cytochrome *cd*$_1$.
@@ -125,7 +125,7 @@ Once again, the only positive lanes were those containing protein samples from *
 The soluble extract from anaerobically-grown *E. coli* [pMMBSE] was pink. A sample of the extract was analysed using UV-visible spectroscopy (Figure 4.11).
 
 ```{r fig4-11, fig.cap="Visible spectrum of soluble extract from _E. coli_ [pMMBSE] grown anaerobically and induced with 1 mM IPTG. 1 ml of soluble extract was prepared from 50 ml of cells and used directly for spectroscopy in 50mM Tris-HCl, pH 8.0. Absorbance maxima are at 416 (not shown), 522, 548 and 554 nm.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 The spectrum obtained was extremely similar to that of chemically-prepared semi-apo cytochrome *cd*$_1$ in the reduced form and showed absorbance maxima at 416, 521, 548 and The peaks at 548 and 554 nm were reversed in magnitude when compared to the spectrum of the holoprotein, as was observed with the chemically-prepared semi-apoprotein (Chapter 3, Figure 3.9).
@@ -133,25 +133,25 @@ The spectrum obtained was extremely similar to that of chemically-prepared semi-
 To partially purify the expressed semi-apo cytochrome *cd*$_1$, a 1 l culture of *E. coli* [pMMBSE] was grown anaerobically, induced with 1 mM IPTG in early exponential phase and harvested at stationary phase, the final A$_{650}$ being around 0.7. A soluble extract was prepared and subjected to ion exchange chromatography on a small DEAE-Sepharose column. The elution profile is shown in Figure 4.12.
 
 ```{r fig4-12, fig.cap="Elution profile during ion exchange chromatography of soluble extract from anaerobically-grown _E. coli_ [pMMBSE] induced using IPTG. 1 l of cells was grown anaerobically to stationary phase and a soluble extract was prepared by sonication in 50 mM Tris-HCl pH 8.0 followed by ultracentrifugation. The extract was bound to a DEAE-Sepharose CL6B column (1 x 10 cm) equilibrated in the same buffer and eluted with a 200 ml gradient (0-400 mM), also in 50 mM Tris-HCl pH 8.0. Symbols: Elution of haem proteins was followed by absorption at 410 nm (&#9632;), NaCl gradient (&#9670;).", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Three major peaks absorbing at 410 nm were apparent, the last which eluted at around 250 mM NaCl which is the expected position for cytochrome *cd*$_1$. Fractions from this peak were pooled and concentrated, and the spectrum of the pooled fractions was recorded (Figure 4.13).
 
 ```{r fig4-13, fig.cap="UV-visible spectrum of recombinant semi-apo cytochrome _cd_$_1$ following ion-exchange chromatography. The peak fractions (28-31) in Figure 4.12 were pooled and concentrated to approximately 200 $\\mu$l. 40 $\\mu$l of the concentrated material was then diluted 5-fold in 50 mM Tris-HCl pH 8.0 and the spectrum was recorded. Absorbance maxima are at 255, 294, 317, 416, 522,548 and 554 nm.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Reconstitution of the semi-apoprotein was attempted using haem *d*$_1$ purified from a stock of native cytochrome *cd*$_1$. In the reconstitution experiment 130 $\mu$l of concentrated material from the ion exchange column, containing approximately 18.8 $\mu$M semi-apo cytochrome *cd*$_1$ was mixed with 150 $\mu$l of haem *d*$_1$, prepared from approximately 40 mg of partially purified cytochrome *cd*$_1$, in a total volume of 1 ml containing 50 mM Tris-HCl, pH 8.0. The solution was incubated at 4 °C for 30 minutes, with gentle mixing by inversion. On mixing the colour of the solution changed from pink to green. The sample was then diluted to 15 ml with 50 mM Tris-HCl pH 8.0, concentrated in a 50 kDa cut-off centrifugal filtration unit, diluted once more to 15 ml and reconcentrated to approximately 300 $\mu$l, with the aim of retaining cytochrome *cd*$_1$ plus bound haem and removing unbound haem *d*$_1$. After concentration, the spectrum of the sample was recorded as isolated and after the addition of sodium dithionite. These spectra are shown in Figure 4.14.
 
 ```{r fig4-14, fig.cap="Visible spectra of recombinant cytochrome _cd_$_1$ following reconstitution with purified haem _d_$_1$ (a) as prepared, (b) following reduction using sodium dithionite, compared with (c) native cytochrome _cd_$_1$ from _T. pantotropha_. Approximately 2.4 nmol of recombinant semi-apo cytochrome _cd_$_1$ was reconstituted with haem _d_$_1$ as described in the main text and concentrated to approximately 300 $\\mu$l. A 200 $\\mu$l sample was used to record spectrum (a) and was then reduced using sodium dithionite to record spectrum (b). Spectrum (c) was recorded from 1.5 $\\mu$M of purified native cytochrome _cd_$_1$ in 50 mM Tris-HCl pH 8.0, also reduced using sodium dithionite.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 In the reduced form, the reconstituted protein exhibited a prominent shoulder at 460 nm and a broad peak at around 625 nm, both of which are diagnostic for the presence of bound haem *d*$_1$. The activity of the expressed semi-apo cytochrome *cd*$_1$, reconstituted cytochrome *cd*$_1$ and native cytochrome *cd*$_1$ (purified from *T. pantotropha*) was assayed using reduced methyl viologen as an electron donor. Assay traces for the three samples are shown in Figure 4.15 and estimates of turnover number are summarised below the traces.
 
 ```{r fig4-15, fig.cap="Assays for nitrite reductase activity using reduced methyl viologen as an electron donor: (a) recombinant semi-apo cytochrome _cd_$_1$, (b) recombinant cytochrome _cd_$_1$ following reconstitution with _d_$_1$ haem, (c) native cytochrome _cd_$_1$ purified from _T. pantotropha_. All assays were performed anaerobically in a volume of 1 ml as described in Materials and Methods. The traces show the decrease in absorbance at 600 nm as the methyl viologen becomes oxidised. The reaction rates used for the calculations described in the main text were obtained by subtraction of the drift rate (before nitrite addition) from the initial rate (after nitrite addition)", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 ## Discussion

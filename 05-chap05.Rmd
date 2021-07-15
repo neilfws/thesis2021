@@ -49,7 +49,7 @@ using plasmid purification (Promega Wizard miniprep) followed by restriction ana
 the enzyme _HindIII_. Figure 5.1 shows agarose gels of the digests from several colonies of _Ps. aeruginosa_.
 
 ```{r fig5-1, fig.cap="Re-isolation of intact plasmid pMMBSE from _Ps. aeruginosa_ PAO1. Plasmid pMMBSE was introduced into _Ps. aeruginosa_ PAO1 by conjugal transfer from _E. coli_ S17-1. Following selection, the plasmid was isolated using the Promega Wizard miniprep kit and digested with _HindIII_. The fragments were separated by electrophoresis on a 0.8% agarose gel. This digest produces two fragments of approximately 9.3 and 1.9 kbp, seen clearly in lanes 1-3, 5 and 6. Lanes III and II contain DNA size standards, the sizes of some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Wizard minipreps from _Ps. aeruginosa_ PAO1 were of consistently good quality and always yielded the expected fragments from the pMMBSE digest.
@@ -80,7 +80,7 @@ Cultures contained _Ps. aeruginosa_ PAO1, _Ps. aeruginosa_ [pMMBSE] or _Ps. aeru
 Growth was recorded by the increase in absorbance at 650 nm until stationary phase was reached and the resulting curves are shown in Figure 5.2.
 
 ```{r fig5-2, fig.cap="Comparison of the growth curves of _Ps. aeruginosa_ and _Ps. aeruginosa_ [pMMBSE] under different growth conditions. Overnight cultures were inoculated at a dilution of 1/100 into 50 ml of medium and growth was followed by the change in absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _Ps. aeruginosa_ aerobic, (&#9632;) _Ps. aeruginosa_ [pMMBSE] aerobic, (&#9650;) _Ps. aeruginosa_ [pMMBSE] aerobic + induced, (&#9671;) _Ps. aeruginosa_ aerobic + nitrate, (&#9633;) _Ps. aeruginosa_ [pMMBSE] aerobic + nitrate, (&#9651;) _Ps. aeruginosa_ [pMMBSE] aerobic + nitrate + induced, (diamond/strikethrough) _Ps. aeruginosa_ anaerobic. (square/strikethrough) Ps, aeruginosa [pMMBSE] anaerobic, (triangle/strikethrough) _Ps. aeruginosa_ [pMMBSE] anaerobic + induced.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 
@@ -95,7 +95,7 @@ taken at each time point on the growth curve were harvested and the supernatant 
 colorimetrically for the presence of nitrite. These data are shown in Figure 5.3.
 
 ```{r fig5-3, fig.cap="Comparison of (a) the growth curve and (b) nitrite accumulation of _Ps. aeruginosa_ with that of _Ps. aeruginosa_ [pMMBSE]. Growth is shown as absorbance at 650 nm (logarithmic scale) against time after inoculation. For nitrite determination, 1 ml samples were harvested at each time point and the supernatant was assayed for nitrite colorimetrically (Materials and Methods). Symbols: (&#9670;) _Ps. aeruginosa_, (&#9632;) _Ps. aeruginosa_ [pMMBSE], (&#9650;) _Ps. aeruginosa_ [pMMBSE] induced using 1 mM IPTG.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 
@@ -112,7 +112,7 @@ Samples from each extract were separated by SDS-PAGE and stained for protein usi
 Coomassie Blue (Figure 5.4).
 
 ```{r fig5-4, fig.cap="Comparison of the protein content of _Ps. aeruginosa_ with that of _Ps. aeruginosa_ [pMMBSE] under different growth conditions. 40 $\\mu$g of protein from the soluble extracts indicated was separated by electrophoresis on an 8% SDS-PAGE gel and stained for protein using Coomassie Brilliant Blue R250. The lane labelled M contained molecular weight markers, the sizes of which are indicated at the left of the gel. A 63 kDa band, corresponding to expressed _T. pantotropha_ cytochrome _cd_$_1$ is visible in lanes 4 and 7.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 The region in which cytochrome _cd_$_1$ is found stained quite
@@ -129,7 +129,7 @@ aerobically with nitrate, were again separated by SDS-PAGE under the same condit
 transferred to a nitrocellulose membrane by semi-dry electroblotting and probed with the _P. denitrificans_ cytochrome _cd_$_1$ antibody. The Western blot is shown in Figure 5.5.
 
 ```{r fig5-5, fig.cap="Western blot of protein samples from _Ps. aeruginosa_ or _Ps. aeruginosa_ [pMMBSE] grown under different growth conditions, probed using antibody to cytochrome _cd_$_1$. 40 $\\mu$g of protein from the cultures indicated was loaded in each lane and separated by SDS-PAGE in an 8% acrylamide gel. The samples were then transferred to a nitrocellulose membrane by semi-dry electroblotting and probed with antibody as detailed in Materials and Methods.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Only two samples tested positive with this antibody, those from _Ps. aeruginosa_ [pMMBSE] grown
@@ -146,7 +146,7 @@ anaerobically and aerobically plus nitrate grown samples was separated on 8% acr
 gels and stained for haem (Figure 5.6).
 
 ```{r fig5-6, fig.cap="Comparison of the _c_-type cytochrome content of _Ps. aeruginosa_ with that of _Ps. aeruginosa_ [pMMBSE] under different growth conditions. 100 $\\mu$g of protein from the cultures indicated was loaded in each lane and separated by SDS-PAGE in a 6% acrylamide gel. The gel was stained for covalently-attached haem as described in Materials and Methods. Lane Tp contained 5 $\\mu$g of purified cytochrome _cd_$_1$ from _T. pantotropha_.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 A doublet of around 60 kDa was seen in the lane
@@ -190,7 +190,7 @@ was then eluted using a 250 ml linear gradient of 0-400 mM NaCl as before. This 
 clean, well-resolved elution profile was obtained, as shown in Figure 5.7.
 
 ```{r fig5-7, fig.cap="Elution profile during ion-exchange chromatography of soluble extract from _Ps. aeruginosa_ [pMMBSE] grown semi-aerobically with nitrate and induced using IPTG. A 1 l culture of _Ps. aeruginosa_ [pMMBSE] was grown semi-aerobically with 50 mM KNO$_3$ and induced with 1 mM IPTG. A total soluble extract was prepared and bound to a DEAE-Sepharose column (2 x 12 cm) previously equilibrated with 50 mM Tris-HCI pH 8.0, washed with several column volumes of the same buffer and eluted using a 250 ml linear gradient of 0-400 mM NaCl. Symbols: (&#9632;) absorbance at 410 nm, (&#9670;) NaCl concentration", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Three peaks of absorbance at 410 nm were seen, eluting at approximately 125, 225 and 250 mM NaCl.
@@ -200,7 +200,7 @@ PAGE gel, along with a sample of total soluble extract from _Ps. aeruginosa_ [pM
 grown anaerobically and induced with 1 mM IPTG, and stained for covalently-bound haem (Figure 5.8).
 
 ```{r fig5-8, fig.cap="Analysis of the _c_-type cytochrome content in the elution profile of soluble extract from _Ps. aeruginosa_ [pMMBSE] following ion exchange chromatography. 15 $\\mu$l of each fraction was loaded in each lane and separated by SDS-PAGE in an 8% acrylamide gel. Lanes are numbered according to the fraction loaded and the peak from which the fractions were taken is indicated. Lane S contained 100 $\\mu$g of total soluble extract from _Ps. aeruginosa_ [pMMBSE] grown anaerobically and induced with 1 mM IPTG. In lane S the endogenous (60 kDa) and recombinant (63 kDa) cytochrome _cd_$_1$ are indicated.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Fractions from both peaks showed a single haem-staining doublet with
@@ -217,7 +217,7 @@ concentrated fractions were recorded. Figure 5.9a and 5.9b shows a spectrum of t
 from peak 2; absorbance maxima were observed at 289, 415, 522, 548 and 554 nm.
 
 ```{r fig5-9, fig.cap="UV-visible spectrum of concentrated fractions eluting under peak 2 following DEAE-Sepharose chromatography. Five fractions from the top of peak 2 (Figure 5.7) were pooled and concentrated to approximately 1 ml by centrifugation in an Amicon-30 microconcentrator Absorbance maxima were observed at 289 (not shown), 415, 522 548 and 554 nm. (b) is an expansion of the region from 440-800 nm in (a), showing the split $\\alpha$-peak and the absence of _d_$_1$ haem absorbance features. No change in the spectrum was observed on the addition of sodium dithionite (not shown).", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 The spectrum was virtually identical to that of the _T. pantotropha_ semi-apo cytochrome _cd_$_1$
@@ -226,7 +226,7 @@ the addition of sodium dithionite. Figure 5.10a shows the spectrum from peak 3, 
 288 409 and 523 nm, and smaller peaks at 547 and 628 nm. 
 
 ```{r fig5-10, fig.cap="UV-visible spectrum of concentrated fractions eluting under peak 2 following DEAE-Sepharose chromatography. Five fractions from the top of peak 2 (Figure 5.7) were pooled and concentrated to approximately 1 ml by centrifugation in an Amicon-30 microconcentrator Absorbance maxima were observed at 289 (not shown), 415, 522 548 and 554 nm. (b) is an expansion of the region from 440-800 nm in (a), showing the split $\\alpha$-peak and the absence of _d_$_1$ haem absorbance features. No change in the spectrum was observed on the addition of sodium dithionite (not shown).", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Figure 5.10 (a) UV-visible spectrum of concentrated fractions eluting under peak 3 after DEAE-Sepharose chromatography, as isolated and (b) after the addition of excess sodium dithionite
@@ -240,7 +240,7 @@ shoulder at 460 nm. The spectrum was similar to that of holocytochrome _cd_$_1$ 
 Changes in the spectrum between the as-isolated and dithionite reduced forms are illustrated by a difference spectrum, shown in Figure 5.11a.
 
 ```{r fig5-11, fig.cap="Difference spectra of (a) dithionite-reduced minus as-isolated spectra from peak 3 and (b) dithionite-reduced peak 3 minus peak 2. The absolute difference spectra shown in figures 5.9 and 5.10 were subtracted from one another to highlight differences between the reduced and oxidised holo cytochrome (a) and the holo- and semi-apo cytochromes (b). In both cases, difference absorbance maxima appear at 423, 522, 548 and 610 nm. In addition, spectrum (a) shows a peak at 460 nm, which is a pronounced shoulder in spectrum (b).", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Major changes in absorbance were noted at 423, 460, 522, 554 and 608 nm. A second difference spectrum of dithionite-reduced peak
@@ -251,7 +251,7 @@ horse heart cytochrome _c_ as an electron donor, and for nitrite reductase activ
 reduced methyl viologen. Assay traces from these experiments are shown in Figure 5.12.
 
 ```{r fig5-12, fig.cap="(a) Cytochrome _c_ oxidase and (b) nitrite reductase activities of the concentrated fractions from peak 3 following ion exchange chromatography. Samples from peak 3 were assayed for oxidase activity using reduced horse heart cytochrome _c_ as electron donor, and for nitrite reductase activity using reduced methyl viologen as electron donor, as described in Materials and Methods. Beneath each trace are estimates of the activity expressed as nmol of electron donor oxidised per minute per mg of protein, which are the means of three separate assays.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 Peak 2 had no activity as either an oxidase or a nitrite reductase. Peak 3 showed a very low

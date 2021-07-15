@@ -8,7 +8,7 @@
 Residues 135-567 of _T. pantotropha_ cytochrome _cd_$_1$ form a rigid $\beta$-propeller domain which provides a binding pocket for the _d_$_1$ haem. The propeller structure consists of an eightfold repeat of a four-stranded antiparallel $\beta$-sheet motif and is so named because each set of four strands is arranged in a circular domain, resembling a propeller with eight blades. A schematic diagram of this domain is shown in Figure A1.
 
 ```{r figA-1, fig.cap="Schematic diagram of the $\\beta$-propeller _d_$_1$-haem binding domain of _T. pantotropha_ cytochrome _cd_$_1$. The symbol H represents histidine residues; on blade 1, His-200, blade 4, His-345 and blade 5, His-388. The “Velcro” closure of the ring is indicated by six parallel lines between the 2 $\\beta$-strands of blade 8, each line representing a hydrogen bond. The lollipop symbol represents conserved aspartate residues at the end of strand 3 within each blade.", fig.align='center', echo=FALSE}
-include_graphics(path = "figure/reed.jpg")
+include_graphics(path = "figure/placeholder.png")
 ```
 
 The sheets are packed face to face, providing structural stability via mainly hydrophobic interaction between them. The rigidity of the propeller structure is also maintained by interactions that act to close (or “Velcro”) the propeller ring. In cytochrome _cd_$_1$ this is achieved by forming the last blade (conventionally assigned as the blade where closure occurs) from both termini of the propeller domain; the C-terminal innermost strand of blade 8 bonds via six main chain hydrogen bonds to one of the other three antiparallel sheets which are provided by the N-terminus.
