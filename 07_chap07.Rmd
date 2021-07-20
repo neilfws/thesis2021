@@ -2,17 +2,17 @@
 
 ## Introduction
 Transposon mutagenesis and the use of heterologous gene probes have led to the
-identification of gene clusters containing over thirty genes involved in denitrification in _Ps. stutzeri_ Zobell, _Ps. aeruginosa_ and _P. denitrificans_ (Zumft and Körner, 1997 [@zumft_enzyme_1997]). Some of these genes have been well characterised, in particular the structural genes that encode the
+identification of gene clusters containing over thirty genes involved in denitrification in _Ps. stutzeri_ Zobell, _Ps. aeruginosa_ and _P. denitrificans_ [@zumft_enzyme_1997]. Some of these genes have been well characterised, in particular the structural genes that encode the
 enzymes of denitrification and some of the accessory genes involved in their biosynthesis
-such as those involved in the assembly of the _d_$_1$ haem group in cytochrome _cd_$_1$ (Palmedo et
-al., 1995 [@palmedo_resolution_1995]). However, very little transcriptional analysis of denitrification gene operons has
+such as those involved in the assembly of the _d_$_1$ haem group in cytochrome _cd_$_1$ [@palmedo_resolution_1995]. 
+However, very little transcriptional analysis of denitrification gene operons has
 been reported. Most of the work in this field has been performed in _Ps. stutzeri_ Zobell. In
-this organism, transcription start site analysis has been reported for the genes _fnrA_ (Cuypers
-and Zumft, 1993 [@cuypers_anaerobic_1993]), _norCB_ (Zumft et al., 1994 [@zumft_nitric_1994]), and _nosZ_ (Cuypers et al., 1995 [@cuypers_multiple_1995]) and Northern
-blotting has been used to determine the major transcripts from these genes. Northern
-blotting of transcripts from the _nirS_ gene region has also been reported (Zumft, 1995 [@zumft_notitle_1995]).
-Similar analysis of the _nor_ genes (Bartnikas et al., 1997 [@bartnikas_characterization_1997]) and the _nirK_ gene which encodes a
-copper nitrite reductase (Tosques et al., 1997 [@tosques_characterization_1997]) have been performed using _Rhodobacter sphaeroides_. In other cases sequence analysis has been employed, as in the _nir_ operon of _Ps. aeruginosa_ (Kawasaki et al., 1997 [@kawasaki_gene_1997]) to look for transcription terminator features that might indicate the size of gene transcripts. In _P. denitrificans_ transcriptional analysis is very much
+this organism, transcription start site analysis has been reported for the genes _fnrA_ [@cuypers_anaerobic_1993], _norCB_ [@zumft_nitric_1994] and _nosZ_ [@cuypers_multiple_1995] and Northern blotting has been used to determine the major transcripts from these genes. Northern
+blotting of transcripts from the _nirS_ gene region has also been reported [@zumft_notitle_1995].
+Similar analysis of the _nor_ genes [@bartnikas_characterization_1997] and the _nirK_ gene which encodes a
+copper nitrite reductase [@tosques_characterization_1997] have been performed using _Rhodobacter sphaeroides_. 
+In other cases sequence analysis has been employed, as in the _nir_ operon of _Ps. aeruginosa_ [@kawasaki_gene_1997] 
+to look for transcription terminator features that might indicate the size of gene transcripts. In _P. denitrificans_ transcriptional analysis is very much
 in its infancy; very few genes have had their transcription start sites determined and little is
 known about the promoter regions of any gene family. More experimental data from _P. denitrificans_ would be extremely valuable as much of the regulation of denitrification is
 likely to occur at the level of transcription. Identification of promoters and the proteins that
@@ -34,22 +34,22 @@ extraction method was based on a number of methods rather than on one specific p
 cell lysis under denaturing conditions and phenol-chloroform extraction was based on the
 method of Chattopadhyay et al. (1993) [@chattopadhyay_inexpensive_1993]. A 50 ml culture typically yielded 150-200 $\mu$g of
 total RNA with a ratio of absorbances at A$_{260}$:A$_{280}$ of 1.5-1.9, which is considered to be of
-sufficient quality for further work (Chirgwin et al., 1979 [@chirgwin_isolation_1979]). The extracted total RNA was
+sufficient quality for further work [@chirgwin_isolation_1979]. The extracted total RNA was
 separated using denaturing formaldehyde agarose gel electrophoresis to determine whether
 degradation had occurred during the extraction procedure. Figure 7.1 shows a gel containing
 a sample of RNA from _T. pantotropha_ that has been run alongside a total RNA extract from
 _Escherichia coli_ (prepared in the same way as that from T. pantotropha) and a sample of
 total RNA from human cells (obtained from Dr. Stuart Wilson, University of Oxford).
 
-```{r fig7-1, fig.cap="Analysis of total RNA samples from human cells, _E. coli_ and _T. pantotropha_ using denaturing agarose gel electrophoresis. Total RNA samples from human HeLa cells (lane 1, 10 $\\mu$g, obtained from Dr. Stuart Wilson, University of Oxford), _E. coli_ (lane 2, 10 $\\mu$g) and _T. pantotropha_ (lane 3, 15 $\\mu$g from anaerobically grown cells and lane 4, 15 $\\mu$g from aerobically grown cells) were denatured by heating in 50% formamide as described by Grierson (1990) and electrophoresed in a 1% agarose-formaldehyde gel. The samples were stained by adding ethidium bromide at 0.033 $\\mu$g/$\\mu$l to the sample loading buffer. The sizes of RNA size standards (not visible on the photograph) are indicated at the left of the gel. Ribosomal RNA sizes (28S = 4718 bases, 23S = 2904 bases, 18S = 1874 bases, 16S = 1541 bases) are shown at the right of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig7-1, fig.cap="Analysis of total RNA samples from human cells, _E. coli_ and _T. pantotropha_ using denaturing agarose gel electrophoresis. Total RNA samples from human HeLa cells (lane 1, 10 $\\mu$g, obtained from Dr. Stuart Wilson, University of Oxford), _E. coli_ (lane 2, 10 $\\mu$g) and _T. pantotropha_ (lane 3, 15 $\\mu$g from anaerobically grown cells and lane 4, 15 $\\mu$g from aerobically grown cells) were denatured by heating in 50% formamide as described by Grierson (1990) [@griersen_notitle_1991] and electrophoresed in a 1% agarose-formaldehyde gel. The samples were stained by adding ethidium bromide at 0.033 $\\mu$g/$\\mu$l to the sample loading buffer. The sizes of RNA size standards (not visible on the photograph) are indicated at the left of the gel. Ribosomal RNA sizes (28S = 4718 bases, 23S = 2904 bases, 18S = 1874 bases, 16S = 1541 bases) are shown at the right of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
 include_graphics(path = "figure/fig7-1.png")
 ```
 
 Under these conditions two bright bands of ribosomal RNA and a faint smear of messenger
 RNA should be observed. In the case of _E. coli_ the 23S and 16S ribosomal RNA molecules
-are 2904 (Brosius et al., 1980 [@brosius_complete_1980]) and 1541 nucleotides long (Brosius et al., 1978 [@brosius_complete_1978]), respectively.
+are 2904 [@brosius_complete_1980] and 1541 nucleotides long [@brosius_complete_1978], respectively.
 Undegraded RNA should exhibit a 2:1 staining ratio for the 23S and 16S rRNA species
-(Chirgwin et al., 1979 [@chirgwin_isolation_1979]). The sample from _T. pantotropha_ contained two strongly-staining
+ [@chirgwin_isolation_1979]. The sample from _T. pantotropha_ contained two strongly-staining
 bands of RNA, but the upper band ran with the same mobility as the 16S RNA species
 whereas the lower band was smaller, with an estimated size of approximately 900 bases.
 This result is discussed further in the following section, but it results from the fragmentation
@@ -79,9 +79,6 @@ However, only the same 1.85 kb band was detected in these experiments (Figure 7.
 ```{r fig7-3, fig.cap="Northern blot of total RNA from anaerobically grown _T. pantotropha_, using a _nirS_-derived probe together with chemiluminescent detection. 10 $\\mu$g of RNA from _T. pantotropha_ grown anaerobically (lane 3) and aerobically (lane 2) and 10 $\\mu$g of RNA from _E. coli_ (lane 1) were separated by electrophoresis on a 1% agarose-formaldehyde gel, transferred to positive nylon and hybridised to a probe for the _nirS_ gene as in Figure 7.2. The hybridised probe was detected using the chemiluminescent alkaline phosphatase substrate CSPD and the blot was exposed to X-ray film for 1 hour. A single band of approximate mobility 1.85 kb was detected in the lane containing RNA from anaerobically grown _T. pantotropha_. The very high stringency of the chemiluminescent detection protocol meant that no background was visible on the developed film; the outline of the original blot is the frame of the photograph. The relative positions of the 23S (2904 bases) and 16S (1541 bases) ribosomal RNAs species are shown at the left of the blot.", fig.align='center', echo=FALSE, out.width='75%'}
 include_graphics(path = "figure/fig7-3.png")
 ```
-
-Northern blot of total RNA from anaerobically grown _T. pantotropha_, using a _nirS_-derived probe together with chemiluminescent detection
-10 $\mu$g of RNA from _T. pantotropha_ grown anaerobically (lane 3) and aerobically (lane 2) and 10 $\mu$g of RNA from _E. coli_ (lane 1) were separated by electrophoresis on a 1% agarose-formaldehyde gel, transferred to positive nylon and hybridised to a probe for the _nirS_ gene as in Figure 7.2. The hybridised probe was detected using the chemiluminescent alkaline phosphatase substrate CSPD and the blot was exposed to X-ray film for 1 hour. A single band of approximate mobility 1.85 kb was detected in the lane containing RNA from anaerobically grown _T. pantotropha_. The very high stringency of the chemiluminescent detection protocol meant that no background was visible on the developed film; the outline of the original blot is the frame of the photograph. The relative positions of the 23S (2904 bases) and 16S (1541 bases) ribosomal RNAs species are shown at the left of the blot.
 
 Northern blotting was also attempted using a 428 bp _SphI_ DNA fragment containing the ends
 of the _nirE_ (3’-end) and _nirC_ (5’-end) genes as a probe, but no transcripts were detected in
@@ -128,7 +125,7 @@ the _nirS_ mRNA, as shown in Figure 7.6.
 include_graphics(path = "figure/fig7-6.png")
 ```
 
-To confirm this result, the method of 5'-RACE (Frohman, 1993 [@frohman_rapid_1993]) was employed to
+To confirm this result, the method of 5'-RACE [@frohman_rapid_1993] was employed to
 provide an independent estimate of the transcription start site. The basis of the method is
 outlined in Figure 7.7.
 
@@ -140,8 +137,8 @@ As in the primer extension, experiment an oligonucleotide (R1) is
 first annealed to the specific mRNA and a cDNA is synthesised, the 3'-end of which
 corresponds to the 5'-end of the mRNA transcript. A tail of dATP residues is then added to
 the 3'-end of the cDNA using terminal deoxynucleotidyl transferase. This allows a set of
-nested PCR reactions to be performed, using three forward primers (QTF, QOF and Q1F,
-Frohman 1993) and two further reverse primers, R2 and R3. The PCR product so generated
+nested PCR reactions to be performed, using three forward primers (QTF, QOF and Q1F [@frohman_rapid_1993]) 
+and two further reverse primers, R2 and R3. The PCR product so generated
 can be cloned and sequenced conventionally and the 5'-end of the mRNA corresponds to the
 first residue seen after the poly-dATP tail on the sequencing ladder.
 
@@ -183,7 +180,7 @@ case was truncated and had not reached the 5'-end of the transcript.
 
 ## Discussion
 Isolation of prokaryotic RNA can be technically challenging due to the short half-life of
-bacterial mRNA (typically 1-2 minutes, Ra and Saris, 1995 [@runar_ra_characterization_1995]) and the problem of
+bacterial mRNA (typically 1-2 minutes [@runar_ra_characterization_1995]) and the problem of
 contamination with both endogenous and exogenous RNases. The quality of isolated RNA
 is determined by two main measurements: a ratio of absorbances at 260 and 280 nm of 1.7
 2.0 and a 23S:16S rRNA intensity ratio of 2:1 when stained with ethidium bromide after
@@ -192,12 +189,13 @@ major bands that stained with ethidium bromide in a 2:1 ratio, but comparison wi
 from _E. coli_ showed that the 23S rRNA band was largely absent in these samples, having
 apparently degraded to a 16S rRNA sized species and a smaller species. However this is not
 indicative of general degradation in the RNA samples. Specific degradation of the 23S
-RNA molecule has been observed during RNA isolation from the bacterium _Rhodobacter capsulatus_ (Yu et al., 1982 [@yu_molecular_1982]), an organism that is very closely related to _T. pantotropha_. In the latter case it was demonstrated that intact 23S rRNA could be isolated using sucrose
+RNA molecule has been observed during RNA isolation from the bacterium _Rhodobacter capsulatus_ [@yu_molecular_1982], 
+an organism that is very closely related to _T. pantotropha_. In the latter case it was demonstrated that intact 23S rRNA could be isolated using sucrose
 density gradient centrifugation and the conditions of gel electrophoresis (in particular a low
 concentration of divalent cations) were responsible for the observed degradation.
 Fragmentation of the 23S rRNA molecule has also been observed in _Rhodospirillum rubrum_
-(Chow, 1976 [@chow_properties_1976]), _Rhodobacter sphaeroides_ (Marrs and Kaplan, 1970 [@marrs_23_1970]) and _Agrobacterium tumefaciens_ (Grienenberger and Simon, 1975 [@grienenberger_structure_1975]). In the latter case degradation of the 23S
-rRNA is proposed to occur _in vivo_ during maturation of the ribosome. Thus it is clear that
+ [@chow_properties_1976], _Rhodobacter sphaeroides_ [@marrs_23_1970] and _Agrobacterium tumefaciens_ [@grienenberger_structure_1975]. 
+In the latter case degradation of the 23S rRNA is proposed to occur _in vivo_ during maturation of the ribosome. Thus it is clear that
 23S rRNA degradation is common to several members of the $\alpha$-Proteobacteria, including
 species that are closely related to _T. pantotropha_. The positive results of the experiments
 described in this chapter also show that the _nirS_ mRNA that was isolated cannot have been
@@ -206,7 +204,7 @@ severely degraded.
 Northern blotting using a DNA probe for the _nirS_ gene identified a single transcript
 that was approximately 1.85 kb long. The coding region of the _nirS_ gene is 1788 bp long
 and in _P. denitrificans_ PD1222 is followed by the genes _nirE_ (864 bp), _nirC_ (309 bp), _nirF_
-(1155 bp) and _nirD_ (645 bp) (de Boer et al., 1994 [@de_boer_isolation_1994]). Preliminary sequencing and restriction
+(1155 bp) and _nirD_ (645 bp) [@de_boer_isolation_1994]. Preliminary sequencing and restriction
 analysis of the _nir_ locus in _T. pantotropha_ indicates the presence of at least _nirE_ and _nirC_.
 The 1.85 kb mRNA species is therefore a _nirS_ transcript. Knowledge of the _nirS_ gene
 transcription start site described later in this chapter allows an approximate placement of the
@@ -219,29 +217,30 @@ include_graphics(path = "figure/fig7-11.png")
 An imperfect inverted repeat 18 bp long (described in Chapter 3) lies between these two genes This
 feature was originally annotated as an oxygen responsive element in the _P. denitrificans_
 PD1222 _nir_ locus, but it bears little resemblance to other ORE features and the annotation
-has subsequently been withdrawn (de Boer et al., 1994 [@de_boer_isolation_1994]). It seems more likely that the
+has subsequently been withdrawn [@de_boer_isolation_1994]. It seems more likely that the
 inverted repeat is involved in terminating the transcription of the _nirS_ gene. The GC-rich
 region can form a stem-loop structure as shown in Figure 7.11 and together with an AT-rich
 region downstream of the repeat, the structure is very similar to a _rho_-independent
-termination site (Farnham and Platt, 1980 [@farnham_model_1980]).
+termination site [@farnham_model_1980].
 
 Transcription of the _nir_ region in _T. pantotropha_ thus appears to differ from that of
 the _nir_ genes in _Ps. stutzeri_ Zobell and _Ps. aeruginosa_. In _Ps. stutzeri_ Zobell two transcripts
-containing either _nirS_ or _nirS_ plus _nirT_ have been detected (Zumft, 1995 [@zumft_notitle_1995]), whilst in _Ps. aeruginosa_ no transcript analysis has been performed to date, although analysis of the _nir_ region suggests a large single transcript containing the genes _nirSMCFDLGHJEN_ terminated
-by a stem-loop structure (Bartnikas et al., 1997 [@bartnikas_characterization_1997]). Chemiluminescent detection of the _nirS_
+containing either _nirS_ or _nirS_ plus _nirT_ have been detected [@zumft_notitle_1995], whilst in _Ps. aeruginosa_ 
+no transcript analysis has been performed to date, although analysis of the _nir_ region suggests a large single transcript containing the genes _nirSMCFDLGHJEN_ terminated
+by a stem-loop structure [@bartnikas_characterization_1997]. Chemiluminescent detection of the _nirS_
 gene probe using a high-stringency protocol that is at least as sensitive as $^{32}$P-based methods
-(Engler-Blum et al., 1993 [@engler-blum_reduction_1993]) failed to detect any longer transcripts from _T. pantotropha_ in the
+ [@engler-blum_reduction_1993] failed to detect any longer transcripts from _T. pantotropha_ in the
 present work. However, it is still possible that longer transcripts including the _nirS_ gene are
 present _in vivo_; they may be present at only very low levels or, alternatively, very large
 transcripts may not be efficiently transferred to the nylon membrane prior to hybridisation.
 Transfer of large mRNA molecules can be improved by partial hydrolysis prior to blotting
-(Sambrook et al., 1989 [@sambrook_molecular_1989]) and it would be of interest to repeat the experiment using this
+ [@sambrook_molecular_1989] and it would be of interest to repeat the experiment using this
 technique. Northern blotting was attempted using a labelled DNA probe derived from parts
 of the _nirE_ and _nirC_ gene but no transcript was detected. It may be that the transcript
 containing these genes was not detectable for the reasons described above. Alternatively the
 probe may not have been of sufficient quality; although the _nirS_ gene probe efficiently
 detected the _nirS_ transcript, single-stranded RNA probes are preferred for Northern blotting
-(Melton et al., 1984 [@melton_efficient_1984]). In future experiments it would be valuable to synthesise riboprobes
+ [@melton_efficient_1984]. In future experiments it would be valuable to synthesise riboprobes
 from the _nir_ genes for Northern blotting.
 
 The transcription start site of the _nirS_ gene was identified as a guanine residue 29 bp
@@ -250,33 +249,37 @@ experiment was not of high quality, but as described in the results section assi
 start site was possible with prior knowledge of the _nirS_ gene sequence in the relevant region.
 Additionally, the independent method of 5'-RACE gave the same result for the start site.
 The guanine residue is a good candidate for the authentic transcription start site as mRNA
-transcripts most often begin with a G or an A residue (Hawley and McClure, 1983 [@hawley_compilation_1983]) and the
+transcripts most often begin with a G or an A residue [@hawley_compilation_1983] and the
 start site is -41.5 bp downstream of the centre of the NNR box. The spacing is the same as
 that observed between the FNR-binding site and the transcription start site in _E. coli_ genes
-that are activated by FNR (Eiglmeier et al., 1989 [@eiglmeier_molecular_1989]). Once the transcription start site of the
+that are activated by FNR [@eiglmeier_molecular_1989]. Once the transcription start site of the
 _nirS_ gene had been identified it was possible to look for upstream sequence features that
 might be involved in transcriptional regulation. The first observation is that there are no
 sequences which resemble the -10 and -35 hexamers seen upstream of sigma-70 dependent
 genes from other species of bacteria, particularly _E. coli_. In _E. coli_ these regions are well
 characterised and consist of the consensus sequence TTGACA-N$_{16-18}$-TATAAT, where the
 TTGACA sequence is centred at -35 and the TATAAT sequence (or Pribnow box) is centred
-at -10 from the transcription start site (Hawley and McClure, 1983 [@hawley_compilation_1983]). The -35 and -10
+at -10 from the transcription start site [@hawley_compilation_1983]. The -35 and -10
 sequences are involved in binding the $\sigma^{70}$ subunit of the RNA polymerase holoenzyme
-(Siebenlist et al. 1980 [@siebenlist_e_1980]). There is evidence that _T. pantotropha_ probably does contain a $\sigma^{70}$
-dependent RNA polymerase; a recent survey of genes from _P. denitrificans_ and other $\alpha$-Proteobacteria in which the transcription start site is known has shown that a similar $\sigma^{70}$ consensus sequence can be discerned in some instances (Baker et al. 1998 [@baker_molecular_1998]).
+ [@siebenlist_e_1980]. There is evidence that _T. pantotropha_ probably does contain a $\sigma^{70}$
+dependent RNA polymerase; a recent survey of genes from _P. denitrificans_ and other $\alpha$-Proteobacteria 
+in which the transcription start site is known has shown that a similar $\sigma^{70}$ consensus sequence can be discerned in some instances 
+ [@baker_molecular_1998].
 Additionally, the gene _xylE_ cloned in a broad host range vector under the control of the $\sigma^{70}$-dependent
 bacteriophage T4 gene 32 promoter was transcribed from an identical start site in a range of
-Gram-negative bacteria, including _Paracoccus denitrificans_ (Frey et al., 1988 [@frey_bacteriophage_1988]), suggesting a
+Gram-negative bacteria, including _Paracoccus denitrificans_ [@frey_bacteriophage_1988], suggesting a
 common mechanism of $\sigma^{70}$ recognition. In the case of the _nirS_ gene it might be expected
 that the RNA polymerase binding sites differ from those normally found in $\sigma^{70}$ dependent
 genes as the NNR-binding site overlays the -35 region and the NNR protein contains a
-putative site for interaction with RNA polymerase (de Boer, 1996 [@de_boer_regulation_1996]). However, due to the lack
+putative site for interaction with RNA polymerase [@de_boer_regulation_1996]. However, due to the lack
 of an obvious -10 site in the _nirS_ gene it is concluded that transcription of the _nirS_ gene is
-probably independent of $\sigma^{70}$. A less likely possibility is that the specificity of the _T. pantotropha_ $\sigma^{70}$ subunit differs from that of the E. coli $\sigma^{70}$ and can bind to a much weaker -10 consensus, particularly when binding is enhanced by the NNR protein. Experiments in
+probably independent of $\sigma^{70}$. A less likely possibility is that the specificity of the _T. pantotropha_ $\sigma^{70}$ 
+subunit differs from that of the E. coli $\sigma^{70}$ and can bind to a much weaker -10 consensus, 
+particularly when binding is enhanced by the NNR protein. Experiments in
 _Ps. aeruginosa_ using the ANR and FNR proteins indicated that the _Ps. aeruginosa_ $\sigma^{70}$-
 dependent RNA polymerase may have different specificity from that of the _E. coli_ enzyme
-(Winteler and Haas, 1996 [@winteler_homologous_1996]) and _in vitro_ data also suggested that the purified polymerase may
-be less stringent (Gao and Gussin, 1991 [@gao_rna_1991]).
+ [@winteler_homologous_1996] and _in vitro_ data also suggested that the purified polymerase may
+be less stringent [@gao_rna_1991].
 
 An alternative -10/-35 promoter consensus sequence was proposed by Steinrücke and
 Ludwig (1993) [@steinrucke_genetics_1993], based on the analysis of several genes from _P. denitrificans_ and closely-
@@ -295,7 +298,8 @@ NNR-dependent (or possibly FNR-dependent) genes from _P. denitrificans_ or its c
 relatives. Unfortunately no information concerning transcripts from the _nir_ or _nor_ genes in
 _P. denitrificans_ is available apart from that reported in this chapter, as most work in the area
 has been carried out using _Ps. stutzeri_ Zobell. However, it was possible to examine the
-sequences of the NNR-dependent genes _nirS_ and _norCB_ from _P. denitrificans_ and _T. pantotropha_ by aligning the NNR-binding sites of these sequences and looking for common
+sequences of the NNR-dependent genes _nirS_ and _norCB_ from _P. denitrificans_ and _T. pantotropha_ 
+by aligning the NNR-binding sites of these sequences and looking for common
 features lying between the NNR-binding site and the ATG start codon (Figure 7.12).
 
 ```{r fig7-12, fig.cap="Alignments of the upstream regions of NNR-regulated genes from _P. denitrificans_ and _T. pantotropha_ showing regions of conserved sequence. Group 1 shows genes with the consensus hexamer TTGCGC in the upstream region. The _nirI_ gene is assumed to be regulated by NNR (see text for details). Also included are the non-NNR-regulated genes _nirE_ and _nnr_. Group 2 shows a consensus resembling the RpoN binding site in the _nirI_ and _nnr_ upstream regions. The NNR binding site is shown in bold, the ATG start codon is in bold-italic. In Group 1 the TTGCGC hexamer is underlined, in Group 2 residues matching the RpoN consensus are underlined. +1 indicates the transcription start site of the _nirS_ gene. A perfect 10 bp inverted repeat in the _nirS_ gene is indicated by inward-facing arrows. Sequence data for _P. denitrificans_ PD1222 and _P. denitrificans_ 12442 was taken from GenBank accession number U05002 and Ohshima et. al. (1993) [@ohshima_cloning_1993], respectively.", fig.align='center', echo=FALSE, out.width='75%'}
@@ -315,12 +319,12 @@ and CC. Thus although the sequences differ, a perfect repeat is conserved in eac
 feature suggests a structural role for the repeat. A possible role is in the binding of
 a transcriptional repressor protein which would serve to prevent transcription of the _nirS_ gene
 under non-denitrifying conditions. Repeats of similar size and structure that serve to bind
-repressors are common to many prokaryotic genes (*e.g.* Schmitt and Holmes, 1994 [@schmitt_cloning_1994]).
+repressors are common to many prokaryotic genes [@schmitt_cloning_1994].
 
 The second striking feature in the upstream sequences is the presence of a
 hexanucleotide with the sequence TTGCGC in the _nirI_ and two of the _nirS_ sequences.
-Similar sequences are seen in the _T. pantotropha_ _nirS_ gene sequence (TTCCGC), the _norCB_
 sequence (TTGCCG) and in two sequences that are apparently not regulated by NNR: _nirE_
+Similar sequences are seen in the _T. pantotropha_ _nirS_ gene sequence (TTCCGC), the _norCB_
 (TTCGCG) and the _nnr_ gene itself (TTGCGC). In the case of the _T. pantotropha_ _nirS_ gene
 the hexanucleotide is centred at -16.5 relative to the transcription start site. This sequence
 lies in a similar position relative to the NNR box in all of the NNR-regulated genes and the
@@ -328,16 +332,16 @@ conservation in terms of sequence and position strongly suggests a role for this
 sequence. Closer examination of the region that includes the TTGCGC hexanucleotide
 reveals some similarity to a family of promoters that are dependent on an alternative sigma
 factor, designated variously as $\sigma^{54}$, NtrA or RpoN. RpoN-dependent promoters were first
-identified in genes involved in nitrogen fixation (Beynon et al., 1983 [@beynon_nif_1983]) and have since been
+identified in genes involved in nitrogen fixation [@beynon_nif_1983] and have since been
 identified in several organisms where they regulate a diverse range of functions
-(Römermann et al., 1989 [@romermann_rpon-like_1989]). RpoN differs from the better-known $\sigma^{70}$-dependent RNA
+ [@romermann_rpon-like_1989]. RpoN differs from the better-known $\sigma^{70}$-dependent RNA
 polymerase in that it requires an ATP-binding activator protein in order to initiate
-transcription from an open promoter-polymerase complex (Kustu et al., 1989 [@kustu_expression_1989]). Additionally,
+transcription from an open promoter-polymerase complex [@kustu_expression_1989]. Additionally,
 the consensus sequence that is recognised by RpoN differs from the -35/-10 $\sigma^{70}$ sequences
 found in _E. coli_ (Figure 7.12). The minimum requirement for an RpoN-dependent promoter
 is a GC dinucleotide found 11-14 base pairs upstream of the transcription start site (most
 often found at the -12 position) and an invariant GG dinucleotide 10 bp further upstream.
-most often at the -24 position (Thöny and Hennecke, 1989 [@thony_-24-12_1989]). In Figure 7.12 it can be
+most often at the -24 position [@thony_-24-12_1989]. In Figure 7.12 it can be
 seen that the regions upstream of _nirI_ and _nnr_ contain these dinucleotides with 
 the correct spacing relative to each other and some additional sequence conservation at other residues.
 However, the _nirS_, _nirE_ and _norCB_ genes lack one of the guanine residues in the invariant
@@ -348,21 +352,21 @@ It therefore seems unlikely that the sigma factor involved in transcription of t
 denitrification genes is the RpoN protein. However, it is still plausible that a similar type of
 protein might be involved. Putative RpoN binding sites have been identified in the upstream
 regions of some genes involved in denitrification, including the _Ps. stutzeri_ Zobell _nosZ_ gene
-(Cuypers and Zumft, 1992 [@cuypers_notitle_1992]) and the _nnrR_ gene of _R. sphaeroides_ 2.43 (Tosques et al., 1996 [@tosques_cloning_1996]).
+ [@cuypers_notitle_1992] and the _nnrR_ gene of _R. sphaeroides_ 2.43 [@tosques_cloning_1996].
 The effects on denitrification of knocking out the rpon gene in these organisms have yet to
 be investigated, although it is known that disruption of the _rpoN_ gene in _Ps. aeruginosa_ has
-no effect on denitrification (Totten et al., 1990 [@totten_rpon_1990]). In contrast, disruption of the _rpoN_
+no effect on denitrification [@totten_rpon_1990]. In contrast, disruption of the _rpoN_
 (formerly _hno_) gene in _Alcaligenes eutrophus_ exerts a wide-ranging pleiotropic effect
-including the loss of denitrification (Roemermann et al., 1988 [@roemermann_pleotropic_1988]). Although _rpoN_ disruption in
+including the loss of denitrification [@roemermann_pleotropic_1988]. Although _rpoN_ disruption in
 _Ps. aeruginosa_ had no effect on denitrification, it is known that there are promoters in this
 organism which resemble RpoN-dependent promoters, in that they possess the GG-N$_{10}$-GC
 motif but the GC dinucleotide is upstream of the normal -12 position and the genes are fully
 functional in the absence of RpoN. Intriguingly, one such gene is that which encodes the
-ENR homologue ANR in _Ps. aeruginosa_ (Savioz et al., 1993 [@savioz_pseudomonas_1993]) and it has been suggested that
+FNR homologue ANR in _Ps. aeruginosa_ [@savioz_pseudomonas_1993] and it has been suggested that
 these "RpoN-like" promoter regions depend on an alternative sigma factor. In
 _Bradyrhizobium japonicum_, an organism quite closely related to _T. pantotropha_ there are
-two _rpoN_ genes encoding the proteins RpoN, and RpoN2, with distinct specificities (Kullik
-et al., 1991 [@kullik_bradyrhizobium_1991]). It is tempting to speculate that this is also the case in _T. pantotropha_ and _P. denitrificans_
+two _rpoN_ genes encoding the proteins RpoN, and RpoN2, with distinct specificities [@kullik_bradyrhizobium_1991]. 
+It is tempting to speculate that this is also the case in _T. pantotropha_ and _P. denitrificans_
 and that one of the RpoN homologues would be involved in denitrification.
 
 Whatever the identity of the sigma factor involved in transcription of denitrifying
@@ -392,33 +396,34 @@ kable(table7_1,
 
 Four of these regulatory proteins (FnrP, NNR, NosR and Nirl) are known to be involved with the
 transcription of one or more denitrification genes. NosR mutants in _Ps. stutzeri_ fail to
-synthesise nitrous oxide reductase (Cuypers et al., 1992 [@cuypers_nosr_1992]), whilst NNR mutants in _P. denitrificans_ fail to synthesise the nitrite and nitric oxide reductases (van Spanning et al., 1995 [@van_spanning_nitrite_1995]). FNR and its close homologues appear to regulate the synthesis of nitrate and nitrous
-oxide reductases, as well as a number of other genes that are induced under microaerobic
-conditions (van Spanning et al., 1997 [@van_spanning_fnrp_1997]). The NirQ protein of _Ps. stutzeri_ seems to be related
-to the NtrC family of transcriptional regulators (Kustu et al., 1989 [@kustu_expression_1989]) in that it contains a
+synthesise nitrous oxide reductase [@cuypers_nosr_1992], whilst NNR mutants in _P. denitrificans_ fail 
+to synthesise the nitrite and nitric oxide reductases [@van_spanning_nitrite_1995]. FNR and its close homologues 
+appear to regulate the synthesis of nitrate and nitrous oxide reductases, as well as a number of other genes that are induced under microaerobic
+conditions [@van_spanning_fnrp_1997]. The NirQ protein of _Ps. stutzeri_ seems to be related
+to the NtrC family of transcriptional regulators [@kustu_expression_1989] in that it contains a
 nucleotide binding site and a DNA-binding helix-turn-helix motif, but disruption of the _nirQ_
 gene gives rise to a mutant in which nitrite and nitric oxide reductases are present at normal
-or slightly elevated levels but are not active (Jüngst and Zumft, 1992 [@jungst_interdependence_1992]). This suggests some
+or slightly elevated levels but are not active [@jungst_interdependence_1992]. This suggests some
 role for NirQ in the modulation of the enzyme activity of these two reductases. The situation
 is different again for the NirQ homologue found in _P. denitrificans_, NorQ; disruption of this
-gene substantially reduces the levels of nitrite and nitric oxide reductases (de Boer et al.,
-1996 [@de_boer_mutational_1996]). This may be due to its differing location in the gene cluster; in _P. denitrificans_ _norQ_
-lies amongst the structural genes for nitric oxide reductase (de Boer et al., 1996 [@de_boer_mutational_1996]) whereas in
-_Ps. stutzeri_ it is transcribed divergently upstream of the _nirS_ gene (Jüngst and Zumft, 1992 [@jungst_interdependence_1992]).
+gene substantially reduces the levels of nitrite and nitric oxide reductases [@de_boer_mutational_1996]. 
+This may be due to its differing location in the gene cluster; in _P. denitrificans_ _norQ_
+lies amongst the structural genes for nitric oxide reductase [@de_boer_mutational_1996] whereas in
+_Ps. stutzeri_ it is transcribed divergently upstream of the _nirS_ gene [@jungst_interdependence_1992].
 
 In _P. denitrificans_ NirI and NNR are the only proteins so far identified as having a
 role in transcription of the nirS gene and an understanding of their action is far from
 complete. NirI is predicted to be an integral inner membrane protein with seven
-transmembrane helices and a putative iron-sulphur cluster (de Boer, 1996 [@de_boer_regulation_1996]). The latter feature
+transmembrane helices and a putative iron-sulphur cluster [@de_boer_regulation_1996]. The latter feature
 may bind a signal molecule, perhaps as part of a redox-sensing pathway. Although its
 homologue NosR in _Ps. stutzeri_ contains a putative DNA-binding helix-turn-helix motif
-(Cuypers et al., 1992 [@cuypers_nosr_1992]) it is difficult to conceive of a membrane-bound protein acting directly
+ [@cuypers_nosr_1992] it is difficult to conceive of a membrane-bound protein acting directly
 as a transcriptional activator, although such a role has also been suggested for the _E. coli_
-FecI protein which is involved in iron dicitrate transport (van Hove et al., 1990 [@van_hove_novel_1990]) and for the
-ToxR protein of _Vibrio cholerae_, which activates the transcription of cholera toxin (Miller et
-al., 1987 [@miller_cholera_1987]). Therefore, NirI may be a transcriptional activator or it may be linked to a second
+FecI protein which is involved in iron dicitrate transport [@van_hove_novel_1990] and for the
+ToxR protein of _Vibrio cholerae_, which activates the transcription of cholera toxin [@miller_cholera_1987]. 
+Therefore, NirI may be a transcriptional activator or it may be linked to a second
 as yet unidentified protein which activates transcription from the _nirS_ promoter, in a similar
-fashion to the two component regulators such as the NarX-NarL system (Nohno et al., 1989 [@nohno_narx_1989]).
+fashion to the two component regulators such as the NarX-NarL system [@nohno_narx_1989].
 As the NNR protein probably binds to the _nirS_ NNR-box (although this has not been
 demonstrated experimentally) an interaction between NirI and NNR cannot be ruled out.
 
@@ -432,21 +437,18 @@ of the divergently-transcribed _nirI_ gene.
 include_graphics(path = "figure/fig7-13.png")
 ```
 
-Putative factors influencing the transcription of nitrite and nitric oxide reductases in _T. pantotropha_
-In this diagram the Nnr protein is assumed to be a transcriptional activator for the _nirS_, _nirI_ and _norCB_ genes. The factor(s) that activate transcription of the _nnr_ gene are unknown. NirI also activates transcription of the _nirS_ gene, possibly through an as-yet unidentified cytoplasmic protein. RpoD represents an alternative sigma factor involved in transcription of the denitrification genes; it may not be the same protein in all cases. The circle labelled 'R' indicates an as-yet unidentified repressor protein that binds upstream of the _nirS_ gene. The NorQ protein is thought to modulate the activities of the nitrite and nitric oxide reductases; its mode of action is not known. More details are given in the text.
-
 The alignment in Figure 7.12 shows a number of conserved residues in the upstream regions of the _nirI_ and _nirS_ genes suggesting that this is
 probably the case and strengthening the argument for an interaction between NNR and NirI.
 Experiments in _R. sphaeroides_ 2.4.3 have shown that the _nnrR_ gene is expressed
 constitutively at a low level throughout growth and indicate that the Nnr protein is
 activated by an effector, which has been suggested to be nitric oxide. The initial NO signal
-would be generated from a low level constitutive activity of the nitrite reductase (Tosques et
-al., 1996 [@tosques_cloning_1996]). In _T. pantotropha_ this is an attractive proposition for two reasons: first, NNR
+would be generated from a low level constitutive activity of the nitrite reductase [@tosques_cloning_1996]. 
+In _T. pantotropha_ this is an attractive proposition for two reasons: first, NNR
 seems to regulate specifically the nitrite and nitric oxide reductases which are involved with
 the production and consumption of nitric oxide and second, these reductases probably only
 function at very low oxygen concentrations. As nitric oxide is highly reactive with oxygen,
 it would be diverted away from bioenergetically-useful reduction by nitric oxide reductase at
-high oxygen tensions (Tosques et al., 1996 [@tosques_cloning_1996]). NirI and NNR might, therefore, function
+high oxygen tensions [@tosques_cloning_1996]. NirI and NNR might, therefore, function
 together as a sensor of redox state or of nitric oxide concentration at lower oxygen
 concentrations than FNR, to co-ordinate the expression of the nitrite and nitric oxide
 reductases. Two important experiments would clarify the respective roles of NirI and NNR:
