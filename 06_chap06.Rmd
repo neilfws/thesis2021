@@ -1,7 +1,8 @@
 # Construction of an unmarked deletion in the _nirS_ gene of _T. pantotropha_: complementation of the mutant and expression of a site-directed mutant of cytochrome _cd_$_1$ nitrite reductase {#chapter06}
 
 ## Introduction
-In the previous two chapters, expression of the cloned _nirS_ gene from _T. pantotropha_ was investigated in the heterologous hosts _E. coli_ and _Ps. aeruginosa_. In each of these cases holo cytochrome _cd_$_1$ could be obtained, either by reconstitution _in vitro_ with haem _d_$_1$ in the
+In the previous two chapters, expression of the cloned _nirS_ gene from _T. pantotropha_ was investigated in the heterologous hosts
+_E. coli_ and _Ps. aeruginosa_. In each of these cases holo cytochrome _cd_$_1$ could be obtained, either by reconstitution _in vitro_ with haem _d_$_1$ in the
 former case or by expression under denitrifying conditions in the latter. It was seen that
 neither of these approaches were ideal in terms of both the uniformity of the material
 obtained and the difficulties in comparing the expressed material to the wild-type protein.
@@ -89,8 +90,7 @@ include_graphics(path = "figure/fig6-3.png")
 ```
 
 To create this plasmid, a 1.2 kbp _PstI_ fragment
-containing the kanamycin resistance gene (_kan_) from the plasmid pUC4K (Vieira and
-Messing, 1982 [@vieira_puc_1982]) was isolated and ligated into the _PstI_ site of the plasmid pTNIR3. The latter
+containing the kanamycin resistance gene (_kan_) from the plasmid pUC4K [@vieira_puc_1982] was isolated and ligated into the _PstI_ site of the plasmid pTNIR3. The latter
 site was located 27 bp upstream of the _nirS_ NNR box. The new plasmid, designated
 pTNIR3K, was digested with _SphI_ to generate an 8.3 kbp fragment containing the _kan_ gene
 and having 5'- and 3’-ends in the _norB_ and _nirE_ genes respectively, as was described in
@@ -195,7 +195,7 @@ include_graphics(path = "figure/fig6-10.png")
 
 ### Analysis of the _nirS_ insertion and deletion mutants
 The kanamycin insertion mutant, unmarked deletion mutant and wild-type strains of _T. pantotropha_ were compared first by growing each strain anaerobically in minimal succinate
-medium plus 50 mM KNO$_3$ (Figure 6.11).
+medium plus 20 mM KNO$_3$ (Figure 6.11).
 
 ```{r fig6-11, fig.cap="Comparison of the anaerobic growth of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increased absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ K7, (&#9650;) _T. pantotropha_ $\\Delta7$. The other deletion mutant strains ($\\Delta5$ and $\\Delta8$) grew identically to $\\Delta7$.", fig.align='center', echo=FALSE, out.width='75%'}
 include_graphics(path = "figure/fig6-11.png")
@@ -389,7 +389,7 @@ with sodium dithionite (Figure 6.25b).
 include_graphics(path = "figure/fig6-25.png")
 ```
 
-These spectra strongly resembled the published spectra of cytochrome _c_ peroxidase from _P. denitrificans_ (Gilmour et al., 1993 [@gilmour_spectroscopic_1993]) and when
+These spectra strongly resembled the published spectra of cytochrome _c_ peroxidase from _P. denitrificans_ [@gilmour_spectroscopic_1993] and when
 assayed the peak 3 fractions did have a significant peroxidase activity, oxidising 3.2 $\mu$mol of
 horse heart cytochrome _c_ per minute per $\mu$l of fraction in the presence of 18 $\mu$M H$_2$O$_2$
 (Figure 6.26).
@@ -402,7 +402,7 @@ In addition to the cytochrome-containing fractions, the blue fractions 28-35
 were identified by visible spectroscopy as the small copper protein pseudoazurin (Figure
 6.27).
 
-```{r fig6-27, fig.cap="Visible spectrum of pseudoazurin from _T. pantotropha_ [pMMBY25F]. Fractions 28-35 (Figure 6.21) were coloured pale-blue. The blue material had absorbance maxima at 408, 587 and 739 nm as isolated. Although the spectrum does not exactly match published spectra for pseudoazurin from _T. pantotropha_ (Moir et al. 1993), it could be identified by size on SDS-PAGE and elution position. The peak at 408 nm overlays a peak at 450 nm and probably indicates contamination of the pseudoazurin peak by the small cytochrome _c_ in peak 1.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-27, fig.cap="Visible spectrum of pseudoazurin from _T. pantotropha_ [pMMBY25F]. Fractions 28-35 (Figure 6.21) were coloured pale-blue. The blue material had absorbance maxima at 408, 587 and 739 nm as isolated. Although the spectrum does not exactly match published spectra for pseudoazurin from _T. pantotropha_ [@moir_purification_1993], it could be identified by size on SDS-PAGE and elution position. The peak at 408 nm overlays a peak at 450 nm and probably indicates contamination of the pseudoazurin peak by the small cytochrome _c_ in peak 1.", fig.align='center', echo=FALSE, out.width='75%'}
 include_graphics(path = "figure/fig6-27.png")
 ```
 
@@ -413,23 +413,23 @@ Sepharose column was employed as the first purification step (not shown).
 ## Discussion
 The method used to construct an unmarked deletion in the _nirS_ gene of _T. pantotropha_ has
 been used previously in the closely-related organism _P. denitrificans_ PD1222 to mutate a
-number of genes including those encoding amicyanin (van Spanning et al., 1990 [@van_spanning_mutagenesis_1990]),
-cytochrome _c_$_{551i}$, cytochrome c$_{550}$ and cytochrome c$_{553i}$, (van Spanning et al., 1991a [@van_spanning_method_1991]), the
-cytochrome _c_ oxidases _aa_$_3$ and _cbb_$_3$ (van der Oost et al., 1995 [@van_der_oost_reversed_1995]) and the genes _moxJ_ and
-_moxG_ which are involved in methanol oxidation (van Spanning et al., 1991b [@van_spanning_isolation_1991]). The method
+number of genes including those encoding amicyanin [@van_spanning_mutagenesis_1990],
+cytochrome _c_$_{551i}$, cytochrome c$_{550}$ and cytochrome c$_{553i}$ [@van_spanning_method_1991], the
+cytochrome _c_ oxidases _aa_$_3$ and _cbb_$_3$ [@van_der_oost_reversed_1995] and the genes _moxJ_ and
+_moxG_ which are involved in methanol oxidation [@van_spanning_isolation_1991]. The method
 has a number of advantages as compared to simple insertional mutagenesis using an
 antibiotic resistance cassette; first, in-frame deletions can be constructed in order to prevent
 polar effects on genes downstream of the mutated target gene and, second, the method allows
 for the construction of multiple mutations by the repeated insertion of a kanamycin marker
 into several targets followed by its replacement with the unmarked deletion. This is
 especially important for _P. denitrificans_ in which few selectable markers have been reported
-(Steinrücke and Ludwig, 1993 [@steinrucke_genetics_1993]).
+ [@steinrucke_genetics_1993].
 
 The first step of the mutagenic procedure, insertion of the kanamycin cassette into the
 _PstI_ site upstream of _nirS_, was accomplished quite easily. A large number of kanamycin
 resistant transconjugants were selected after mating and 15 out of 100 of these proved to be
 exconjugants when tested for spectinomycin susceptibility. This compares well with the
-frequency of 40% reported for kanamycin insertion mutagenesis of the _cycA_ gene in _P. denitrificans_ (van Spanning, 1991 [@van_spanning_genes_1991]). The ease of this procedure was probably due in part to the extensive homologous regions each side of the kanamycin cassette in the mutagenic
+frequency of 40% reported for kanamycin insertion mutagenesis of the _cycA_ gene in _P. denitrificans_ [@van_spanning_genes_1991]. The ease of this procedure was probably due in part to the extensive homologous regions each side of the kanamycin cassette in the mutagenic
 plasmid pGRPN3K, in which there was approximately 5.1 kbp and 2.1 kbp of DNA
 upstream and downstream respectively of the kanamycin cassette. It has been suggested that
 at least 1 kb of homologous DNA each side of the insertion region is desirable for efficient
@@ -459,7 +459,7 @@ termini and to have a detailed restriction map of the plasmid.
 Replacement of the chromosomal _nirS_ gene with the unmarked deletion also proved to
 be quite challenging. To begin with, the procedure for selection of cells in which pRVS$\Delta$nir
 had become integrated into the chromosome proved to be slightly different to the published
-protocol (van Spanning, 1991 [@van_spanning_genes_1991]), in that a concentration of 20 $\mu$g ml$^{-1}$ of X-Gal in the plates
+protocol [@van_spanning_genes_1991], in that a concentration of 20 $\mu$g ml$^{-1}$ of X-Gal in the plates
 was not sufficient to turn the colonies blue. At 40 $\mu$g ml$^{-1}$ the colonies were pale-blue.
 However, the presence of spectinomycin and kanamycin, both at 100 $\mu$g ml$^{-1}$, should have
 been sufficient to detect plasmid integrant strains. In the next stage of the published protocol
@@ -473,7 +473,7 @@ increased but was still very low; 25 were obtained after the second culture was 
 fold and plated on 10 plates, of which three colonies were kanamycin-sensitive and
 contained the deletion. The frequency is somewhat lower than that reported for deletion
 mutagenesis of the _cycA_ gene in _P. denitrificans_ (resolution frequency of 5 x 10$^{-4}$, of which
-25% were kanamycin-sensitive, van Spanning 1990 [@van_spanning_genes_1991]).
+25% were kanamycin-sensitive [@van_spanning_genes_1991].
 
 Growth of the deletion mutant strains revealed the expected phenotype as compared
 with the wild-type cells; in the absence of cytochrome _cd_$_1$ the nitrite produced by nitrate
@@ -486,7 +486,7 @@ wild-type strain, indicating that nitrite reduction in this strain was impaired.
 blot, slightly less cytochrome _cd_$_1$ was observed in this mutant strain, and when harvested, the
 cells were noticeably pink compared to the wild-type. The kanamycin insertion lies in the
 promoter region of the _nirI_ gene, which is known to be involved in the regulation of _nirS_
-expression (de Boer, 1996). It is probable that in this mutant expression of _nirI_ is impaired
+expression [de_boer_regulation_1996]. It is probable that in this mutant expression of _nirI_ is impaired
 but not abolished, allowing the formation of some active cytochrome _cd_$_1$. The pink colour of
 the cell pellet is possibly due to the expression of some semi-apo cytochrome _cd_$_1$, which is
 pink as it lacks the _d_$_1$ haem, and/or to the attenuated level of holo-cytochrome _cd_$_1$ which
@@ -503,7 +503,7 @@ cohesive termini generated by restriction using these enzymes were filled in usi
 polymerase. Without sequencing across this junction it is not possible to know precisely
 what junction was formed, as the polymerase may have removed some nucleotides from
 either terminus as well as filling in the ends. However, analysis of the truncated gene using
-the program SeqAid (Roufa and Rhoads, 1989 [@roufa_seqaid_1989]) indicates that the procedure may have
+the program SeqAid [@roufa_seqaid_1989] indicates that the procedure may have
 generated two new open reading frames. The first of these begins at the original ATG start
 codon and is 264 bp long, encoding for 88 amino acids and is unlikely to be relevant. The
 second begins at an ATG codon after the deletion and encodes a polypeptide of 429 amino
@@ -526,17 +526,20 @@ nitrite levels in the culture medium, both of which were very similar to wild-ty
 pMMBSEK proved to be a good choice of plasmid for these experiments; it contains the
 kanamycin resistance gene which is selectable in _T. pantotropha_ and the upstream promoter
 region which seems to be fully functional, removing the need for induction using IPTG. The
-last point is important as the _tac_ promoter is believed to function quite poorly in _P. denitrificans_ (Dr. M.L.D. Page and Dr. E. Gordon, personal communication).
+last point is important as the _tac_ promoter is believed to function quite poorly in _P. denitrificans_ 
+(Dr. M.L.D. Page and Dr. E. Gordon, personal communication).
 
 Having demonstrated that the _nirS_ deletion mutant could be complemented
 successfully with a plasmid the next step was to try complementation using a site-directed
 mutant of the _nirS_ gene. The first mutant chosen was one in which Tyr-25 was mutated to
 phenylalanine. The role of Tyr-25 was discussed in Chapter 3; it is a ligand to the _d_$_1$ haem
 in the oxidised enzyme structure and is postulated to displace nitric oxide from the haem iron
-during the catalytic cycle of nitrite reduction (Fülöp et al., 1995 [@fulop_anatomy_1995]). This crucial role made
+during the catalytic cycle of nitrite reduction [@fulop_anatomy_1995]. This crucial role made
 Tyr-25 an attractive candidate for mutagenesis. Phenylalanine was chosen as a replacement
 residue as it has the same core structure as tyrosine, lacking only the hydroxyl group; the
-latter feature would be expected to prevent bonding to the _d_$_1$ haem iron. Additionally, Tyr-25 is located on the 382 bp _BamHI_ - _EcoRI_ fragment that was removed from the chromosomal _nirS_ gene to make the deletion mutant. This facilitated the construction of the mutant as the
+latter feature would be expected to prevent bonding to the _d_$_1$ haem iron. Additionally, Tyr-25 
+is located on the 382 bp _BamHI_ - _EcoRI_ fragment that was removed from the chromosomal _nirS_ gene 
+to make the deletion mutant. This facilitated the construction of the mutant as the
 same fragment could be inserted into the expression plasmid as a cassette and screened for
 using the silent _MluI_ restriction site. The absence of the residue in the chromosomal copy of
 the gene also meant that it could not be transferred to the plasmid by homologous
@@ -546,8 +549,8 @@ sequencing. One other possibility is that of reversion, in which the Y25F mutant
 gene might be transferred to the chromosome by homologous recombination and then
 repaired by random mutation to give the wild-type gene. However, this is most unlikely as
 the amount of homologous overlapping DNA between the plasmid and the chromosome is
-quite low, especially at the 5'-end and, additionally, reversion is extremely rare in _P. denitrificans_ except under conditions of extreme selective pressure (Steinrücke and Ludwig,
-1993 [@steinrucke_genetics_1993]).
+quite low, especially at the 5'-end and, additionally, reversion is extremely rare in _P. denitrificans_ 
+except under conditions of extreme selective pressure [@steinrucke_genetics_1993].
 
 Growth of _T. pantotropha_ $\Delta7$ [pMMBY25F) anaerobically on nitrate showed a
 phenotype that was virtually identical to that of the deletion mutants, with poor growth and
@@ -574,7 +577,7 @@ that Tyr-25 is certainly a vital residue in some sense. One possible reason for 
 degradation could be that Tyr-25 plays an important structural role during assembly of the
 enzyme. As well as ligating to the _d_$_1$ haem iron, Tyr-25 is hydrogen-bonded via a water
 molecule to the residues His-345 and His-388 in the oxidised structure of cytochrome _cd_$_1$
-(Baker et al., 1997b [@baker_cytochrome_1997]) and so is structurally important. It may be that some or all of the above
+ [@baker_cytochrome_1997] and so is structurally important. It may be that some or all of the above
 interactions are important during the assembly and folding of cytochrome _cd_$_1$ _in vivo_ and
 that their absence in the Y25F mutant accounts for its degradation. However, an equally
 valid argument is that the absence of enzymatic activity in the Y25F mutant leads to the
@@ -603,12 +606,12 @@ anaerobically with nitrate. However, in the mutant culture cytochrome _c_ peroxi
 major _c_-type cytochrome. It was also notable that elevated levels of the small blue copper
 protein pseudoazurin were present, giving a blue colour to the fractions in which the protein
 eluted that was clearly visible to the eye. Although the yield of pseudoazurin from wild-type
-T. pantotropha has been reported as 0.6 mg l$^{-1}$ (Moir, 1993 [@moir_aspects_1993]), the protein has been
+T. pantotropha has been reported as 0.6 mg l$^{-1}$ [@moir_aspects_1993], the protein has been
 consistently difficult to detect during routine purification of cytochrome _cd_$_1$ over the course
 of the present work. The amounts observed in this case seem especially significant when the
 poor cell yield is considered. This observation may indicate that pseudoazurin is produced in
 response to oxidative stress and/or it may be an electron donor to cytochrome _c_ peroxidase in
-an analogous role to the similar protein azurin (Ronnberg et al., 1981 [@ronnberg_reaction_1981]).
+an analogous role to the similar protein azurin [@ronnberg_reaction_1981].
 
 The complementation of the _nirS_ deletion mutant using pMMBSEK has shown that
 this is a viable expression system for cytochrome _cd_$_1$, provided that the recombinant protein
@@ -621,7 +624,9 @@ volumes. However, the potential instability of mutants such as Y25F presents a d
 problem. As the mutant cytochrome _cd_$_1$ could not be isolated from scaled-up cultures, it was
 not possible to find out whether Tyr-25 was an essential residue for catalysis. This question
 might be answered using the reconstitution of the expressed semi-apo protein from _E. coli_
-that was described in Chapter 4. In this case the assembly of the protein differs to that _in vivo_, in that it does not depend on the presence of Tyr-25 to ligand with the _d_$_1$ haem during synthesis and folding because the _d_$_1$ haem is not present. It may therefore be possible to
+that was described in Chapter 4. In this case the assembly of the protein differs to that _in vivo_, in that 
+it does not depend on the presence of Tyr-25 to ligand with the _d_$_1$ haem during synthesis and folding 
+because the _d_$_1$ haem is not present. It may therefore be possible to
 insert the haem by reconstitution into semi-apo cytochrome _cd_$_1$ Y25F and determine whether
 the protein is catalytically active. The comments from Chapter 4 concerning improvements
 to the expression system and standardisation of the reconstitution protocol are equally valid
