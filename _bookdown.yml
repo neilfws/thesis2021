@@ -1,3 +1,4 @@
 book_filename: "thesis"
 chapter_name: "Chapter "
 delete_merged_file: true
+output_dir: "docs"
