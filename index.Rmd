@@ -1,6 +1,6 @@
 ---
 title: 'Cloning, sequence analysis and studies on the expression of the _nirS_ gene, encoding cytochrome _cd_$_1$ nitrite reductase, from _Thiosphaera pantotropha_'
-author: 'Neil F.W. Saunders'
+author:  'Neil F.W. Saunders  <br />St. Cross College'
 date: 'September 1997'
 institution: 'Oxford University'
 division: 'St Cross College'
