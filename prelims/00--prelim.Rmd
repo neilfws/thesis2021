@@ -1,6 +1,10 @@
 # Preliminary Content {-}
 
-`r if(!knitr:::is_latex_output()) '## Abstract {-}'`
+A thesis submitted to the board of the Faculty of Biological Sciences at the
+University of Oxford in partial fulfillment of the requirements for the degree of
+Doctor of Philosophy.
+
+## Abstract {-}
 
 The _nirS_ gene, which encodes the enzyme cytochrome _cd_<sub>1</sub> nitrite reductase in the denitrifying
 bacterium _Thiosphaera pantotropha_, was cloned and sequenced. The sequence of this
