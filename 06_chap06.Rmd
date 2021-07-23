@@ -36,7 +36,7 @@ suicide plasmid pGRPd1. The plasmid was then mobilised into _T. pantotropha_ and
 which the marker had inserted into the chromosome by homologous recombination were
 selected. This procedure is outlined in Figure 6.1.
 
-```{r fig6-1, fig.cap="Construction of a kanamycin insertional mutant in the _nir_ region of the _T. pantotropha_ genome. (a) Plasmid pGRPN3K (Table 6.1) is introduced into the cell and undergoes a single homologous recombination with the _nir_ region of the chromosome. (b) This results in a plasmid integrant strain which is both kanamycin- and spectinomycin resistant due to the spectinomycin resistance gene on the vector. (c) A second homologous recombination results in integration of the _kan_ gene upstream of the _nirS_ gene and loss of the spectinomycin resistance determinant on the suicide plasmid. Enzymes: P, _PstI_, Sp, _SphI_.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-1, fig.cap="Construction of a kanamycin insertional mutant in the _nir_ region of the _T. pantotropha_ genome. (a) Plasmid pGRPN3K (Table 6.1) is introduced into the cell and undergoes a single homologous recombination with the _nir_ region of the chromosome. (b) This results in a plasmid integrant strain which is both kanamycin- and spectinomycin resistant due to the spectinomycin resistance gene on the vector. (c) A second homologous recombination results in integration of the _kan_ gene upstream of the _nirS_ gene and loss of the spectinomycin resistance determinant on the suicide plasmid. Enzymes: P, _PstI_, Sp, _SphI_.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-1.png")
 ```
 
@@ -45,7 +45,7 @@ pRVS1. This construct was then mobilised into the strain of _T. pantotropha_ car
 kanamycin marker and cells in which the marker and the wild-type _nirS_ gene were replaced
 by the copy carrying the deletion were selected. This step is outlined in Figure 6.2.
 
-```{r fig6-2, fig.cap="Construction of a _nirS_ deletion mutant strain in _T. pantotropha_. (a) Plasmid pRVS$\\Delta$nir (Table 6.1) is introduced into the cell and undergoes a single homologous recombination with the _nir_ region of the chromosome. (b) This results in a plasmid integrant strain which is kanamycin- and spectinomycin resistant and colours blue on XGal plates due to the _lacZ_ gene on the vector. (c) A second homologous recombination removes the _kan_ gene from the chromosome and inserts the cloned _nirS_ gene which contains the deletion. The _lacZ_ and spectinomycin resistance genes are lost on the suicide plasmid. Enzymes: (B), (E) 382 bp _BamHI_ - _EcoRI_ fragment removed, ends blunted and religated. N, _NotI_.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-2, fig.cap="Construction of a _nirS_ deletion mutant strain in _T. pantotropha_. (a) Plasmid pRVS$\\Delta$nir (Table 6.1) is introduced into the cell and undergoes a single homologous recombination with the _nir_ region of the chromosome. (b) This results in a plasmid integrant strain which is kanamycin- and spectinomycin resistant and colours blue on XGal plates due to the _lacZ_ gene on the vector. (c) A second homologous recombination removes the _kan_ gene from the chromosome and inserts the cloned _nirS_ gene which contains the deletion. The _lacZ_ and spectinomycin resistance genes are lost on the suicide plasmid. Enzymes: (B), (E) 382 bp _BamHI_ - _EcoRI_ fragment removed, ends blunted and religated. N, _NotI_.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-2.png")
 ```
 
@@ -85,7 +85,7 @@ kable(table6_1,
 
 The strategy for construction of the suicide plasmid containing the _nirS_ gene and the kanamycin marker is shown in Figure 6.3. 
 
-```{r fig6-3, fig.cap="Construction of the suicide plasmid pGRPN3K. Full details of plasmids are given in Table 6.1. Only the relevant restriction fragments are shown. Plasmid pGRPN3K was used to construct the kanamycin insertion mutant _T. pantotropha_ K7. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, N, _NotI_, P, _PstI_, S, _SalI_, Sp, _SphI_.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-3, fig.cap="Construction of the suicide plasmid pGRPN3K. Full details of plasmids are given in Table 6.1. Only the relevant restriction fragments are shown. Plasmid pGRPN3K was used to construct the kanamycin insertion mutant _T. pantotropha_ K7. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, N, _NotI_, P, _PstI_, S, _SalI_, Sp, _SphI_.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-3.png")
 ```
 
@@ -99,7 +99,7 @@ plasmid pGRPd1, to give the final construct for use in insertional mutagenesis w
 designated pGRPN3K. The plasmid was analysed by restriction digestion to confirm that it
 was the desired construct (Figure 6.4).
 
-```{r fig6-4, fig.cap="Restriction digest analysis of plasmid pGRPN3K. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _EcoRI_ (lanes 1-6), the DNA fragments were separated by electrophoresis on a 0.8% agarose gel. The possible orientations of the _SphI_ insert from pTNIR3K are shown below the gel. Two _EcoRI_ sites in the insert and a third site in the vector produce three fragments of approximate sizes 6.3, 5.6 and 3.6 kbp (first orientation) or 7.0, 5.6 and 2.9 Kbp (second orientation). These are seen in lanes 1 and 5 respectively. Enzymes: E, _EcoRI_, Sp, _SphI_. Lanes labelled III and II contain DNA size standards, the sizes of some of which are indicated to the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-4, fig.cap="Restriction digest analysis of plasmid pGRPN3K. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _EcoRI_ (lanes 1-6), the DNA fragments were separated by electrophoresis on a 0.8% agarose gel. The possible orientations of the _SphI_ insert from pTNIR3K are shown below the gel. Two _EcoRI_ sites in the insert and a third site in the vector produce three fragments of approximate sizes 6.3, 5.6 and 3.6 kbp (first orientation) or 7.0, 5.6 and 2.9 Kbp (second orientation). These are seen in lanes 1 and 5 respectively. Enzymes: E, _EcoRI_, Sp, _SphI_. Lanes labelled III and II contain DNA size standards, the sizes of some of which are indicated to the left of the gel.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-4.png")
 ```
 
@@ -121,14 +121,14 @@ fragment of pUC4K labelled with digoxigenin. Fragments of the expected sizes (4.
 kbp) were observed on the blot (Figure 6.5), confirming that the kan gene had inserted only
 once in the expected site.
 
-```{r fig6-5, fig.cap="Southern blot of genomic DNA from _T. pantotropha_ K7 using the kanamycin resistance gene as a probe. Genomic DNA from wild-type _T. pantotropha_, _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$ was digested using _HindIII_ and probed with the 1.2 kbp _PstI_ fragment of pUC4K, labelled with digoxigenin-alkaline phosphatase conjugate. The two fragments of molecular weights 4.8 and 1.1 kbp in lane 2 arise from the insertion of the _kan_ gene upstream of the _nirS_ gene (Figure 6.3). Lanes: 1, _T. pantotropha_ wild-type, 2, _T. pantotropha_ K7,3, _T. pantotropha_ $\\Delta7$, 4, _T. pantotropha_ $\\Delta8$.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-5, fig.cap="Southern blot of genomic DNA from _T. pantotropha_ K7 using the kanamycin resistance gene as a probe. Genomic DNA from wild-type _T. pantotropha_, _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$ was digested using _HindIII_ and probed with the 1.2 kbp _PstI_ fragment of pUC4K, labelled with digoxigenin-alkaline phosphatase conjugate. The two fragments of molecular weights 4.8 and 1.1 kbp in lane 2 arise from the insertion of the _kan_ gene upstream of the _nirS_ gene (Figure 6.3). Lanes: 1, _T. pantotropha_ wild-type, 2, _T. pantotropha_ K7,3, _T. pantotropha_ $\\Delta7$, 4, _T. pantotropha_ $\\Delta8$.", fig.align='center', echo=FALSE, out.width='50%'}
 include_graphics(path = "figure/fig6-5.png")
 ```
 
 Construction of the suicide plasmid containing a deletion in the _nirS_ gene is outlined in
 Figure 6.6.
 
-```{r fig6-6, fig.cap="Construction of the suicide plasmid pRVS$\\Delta$nir. Only the relevant restriction fragments are shown. Full details of the plasmids are given in Table 6.1. Plasmid pRVS$\\Delta$nir was used to construct the _nirS_ deletion mutants $\\Delta5$, $\\Delta7$, $\\Delta8$. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, N, _NotI_, S, _SalI_.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-6, fig.cap="Construction of the suicide plasmid pRVS$\\Delta$nir. Only the relevant restriction fragments are shown. Full details of the plasmids are given in Table 6.1. Plasmid pRVS$\\Delta$nir was used to construct the _nirS_ deletion mutants $\\Delta5$, $\\Delta7$, $\\Delta8$. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, N, _NotI_, S, _SalI_.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-6.png")
 ```
 
@@ -142,7 +142,7 @@ The DNA fragment from which the 382 bp fragment had been removed was isolated, t
 ends were blunted using T4 DNA polymerase and the plasmid was religated. The absence of
 the 382 bp fragment was demonstrated with digests using the enzymes _PstI_, _NotI_ and _SalI_ (Figure 6.7). 
 
-```{r fig6-7, fig.cap="Restriction digest analysis of plasmids pLN3N and pLN3N$\\Delta$nir. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _PstI_ plus _NotI_ (lanes 1 and 2) or _SalI_ (lanes 3 and 4). The digested DNA was separated by electrophoresis on a 0.8% agarose gel. Lanes 1 and 3 contain DNA from pLN3N, lanes 2 and 4 contain DNA from pLN3N$\\Delta$nir. In lane 1, three fragments of approximate sizes 3, 2.4 and 1.8 kbp are seen. The two smaller fragments correspond to the _NotI_ insert from pLN3N. In lane 2 the 2.4 kbp fragment has moved to 2 kbp, due to the removal of the 382 bp _BamHI_ - _EcoRI_ fragment. Lane 3 shows two _SalI_ fragments from pLN3N. In lane 4 the internal _SalI_ site in the 382 bp _BamHI_ - _EcoRI_ fragment has been lost, giving a linearised plasmid of approximate size 6.9 kbp. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, N, _NotI_, P, I, S, _SalI_. Lanes labelled III and II contain DNA size standards, some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-7, fig.cap="Restriction digest analysis of plasmids pLN3N and pLN3N$\\Delta$nir. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _PstI_ plus _NotI_ (lanes 1 and 2) or _SalI_ (lanes 3 and 4). The digested DNA was separated by electrophoresis on a 0.8% agarose gel. Lanes 1 and 3 contain DNA from pLN3N, lanes 2 and 4 contain DNA from pLN3N$\\Delta$nir. In lane 1, three fragments of approximate sizes 3, 2.4 and 1.8 kbp are seen. The two smaller fragments correspond to the _NotI_ insert from pLN3N. In lane 2 the 2.4 kbp fragment has moved to 2 kbp, due to the removal of the 382 bp _BamHI_ - _EcoRI_ fragment. Lane 3 shows two _SalI_ fragments from pLN3N. In lane 4 the internal _SalI_ site in the 382 bp _BamHI_ - _EcoRI_ fragment has been lost, giving a linearised plasmid of approximate size 6.9 kbp. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, N, _NotI_, P, I, S, _SalI_. Lanes labelled III and II contain DNA size standards, some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-7.png")
 ```
 
@@ -155,7 +155,7 @@ pRVS$\Delta$nir. The presence of the insert was confirmed by digestion with _Eco
 (Figure 6.8) and by a PCR reaction using pRVS$\Delta$nir as template DNA and the primers nirSF
 and MIDR (Table 3.1, Chapter 3).
 
-```{r fig6-8, fig.cap="Restriction digest analysis of plasmids pRVS1 and pRVS$\\Delta$nir. Following ligation and transformation, plasmid DNA was isolated from transformed _E. coli_ and digested using _EcoRI_ (lanes 1 and 2), _NruI_ (lanes 3 and 4), _SalI_ (lanes 5 and 6) and _StyI_ (lanes 7 and 8). The digested DNA was then separated by electrophoresis on a 0.8% agarose gel. Lanes 1, 3, 5 and 7 contain DNA from plasmid pRVS1, lanes 2, 4, 6 and 8 contain DNA from plasmid pRVS$\\Delta$nir. As described in the text, restriction analysis of these plasmids was difficult to interpret due to the lack of a restriction map for pRVS1. However, the digests in lanes 1-2 and 5-6 clearly show that pRVS$\\Delta$nir contains an insert of around 3.8 kbp, the expected size of the insert. The digests in lanes 3-4 and 7-8 show extra _NruI_ and _StyI_ sites in pRVS$\\Delta$nir which can be related to the known sequence of the _nirS_ gene and to restriction analysis of plasmids containing the _nir_ region (Chapter 4). The lane labelled II contains DNA size standards, the sizes of some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-8, fig.cap="Restriction digest analysis of plasmids pRVS1 and pRVS$\\Delta$nir. Following ligation and transformation, plasmid DNA was isolated from transformed _E. coli_ and digested using _EcoRI_ (lanes 1 and 2), _NruI_ (lanes 3 and 4), _SalI_ (lanes 5 and 6) and _StyI_ (lanes 7 and 8). The digested DNA was then separated by electrophoresis on a 0.8% agarose gel. Lanes 1, 3, 5 and 7 contain DNA from plasmid pRVS1, lanes 2, 4, 6 and 8 contain DNA from plasmid pRVS$\\Delta$nir. As described in the text, restriction analysis of these plasmids was difficult to interpret due to the lack of a restriction map for pRVS1. However, the digests in lanes 1-2 and 5-6 clearly show that pRVS$\\Delta$nir contains an insert of around 3.8 kbp, the expected size of the insert. The digests in lanes 3-4 and 7-8 show extra _NruI_ and _StyI_ sites in pRVS$\\Delta$nir which can be related to the known sequence of the _nirS_ gene and to restriction analysis of plasmids containing the _nir_ region (Chapter 4). The lane labelled II contains DNA size standards, the sizes of some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='50%'}
 include_graphics(path = "figure/fig6-8.png")
 ```
 
@@ -163,7 +163,7 @@ This primer pair gave a 903 bp PCR product from the complete _nirS_ gene, but as
 the PCR fragment should have been shortened to 521 bp. The smaller product was clearly
 seen using pRVS$\Delta$nir as the template DNA (Figure 6.9).
 
-```{r fig6-9, fig.cap="PCR analysis of plasmid pRVS$\\Delta$nir showing a 382 bp deletion in the cloned _nirS_ gene. Plasmid pRVS$\\Delta$nir was used as the template in a PCR reaction with the primers nirSF (forward) and MIDR (reverse) described in Chapter 3, Table 3.1. The primer pair flanks the site of the deletion in the _nirS_ gene, generating a PCR product of 903 bp in the wild-type gene (Chapter 3, Figure 3.1). The 382 bp deletion in this region generates a PCR product of 521 bp, which can be seen in lane 1. The lane labelled M contains a 100 bp DNA size standard ladder with some of the fragment sizes indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-9, fig.cap="PCR analysis of plasmid pRVS$\\Delta$nir showing a 382 bp deletion in the cloned _nirS_ gene. Plasmid pRVS$\\Delta$nir was used as the template in a PCR reaction with the primers nirSF (forward) and MIDR (reverse) described in Chapter 3, Table 3.1. The primer pair flanks the site of the deletion in the _nirS_ gene, generating a PCR product of 903 bp in the wild-type gene (Chapter 3, Figure 3.1). The 382 bp deletion in this region generates a PCR product of 521 bp, which can be seen in lane 1. The lane labelled M contains a 100 bp DNA size standard ladder with some of the fragment sizes indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-9.png")
 ```
 
@@ -189,7 +189,7 @@ _nirS_ gene that had been labelled with digoxigenin by PCR. The Southern blot (F
 showed all of the expected hybridising fragments, confirming that the deletion mutants were
 the desired ones.
 
-```{r fig6-10, fig.cap="Southern blot of genomic DNA from wild-type _T. pantotropha_, _T. pantotropha_ K7 and the _nirS_ deletion mutants $\\Delta5$, $\\Delta7$ and $\\Delta8$ using a _nirS_-derived probe. Genomic DNA was digested using _StyI_ and probed using a 141 bp PCR product derived from the _nirS_ gene using the primers nirSF and 228R (Table 3.1, Chapter 3), labelled with digoxigenin-alkaline phosphatase conjugate. The map below the blot indicates the _StyI_ sites in the 4.2 kbp _NotI_ fragment in which the deletion was made to give pRVS$\\Delta$nir. All of the expected fragments are visible on the blot except for the 2.1 kbp fragment in the insertion mutant strain; the larger size of this fragment and the small degree of overlap of the probe resulted in a very weak hybridisation that was barely visible on the original blot and cannot be seen on the photograph. The position of the 2.1 kbp fragment is indicated at the right of the gel, along with the other fragments. Lanes: 1, _T. pantotropha_ wild-type, 2, _T. pantotropha_ K7, 3-5, _T. pantotropha_ $\\Delta5$, $\\Delta7$ and $\\Delta8$. Enzymes: S, _StyI_, P, _PstI_, B, _BamHI_, E, _EcoRI_", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-10, fig.cap="Southern blot of genomic DNA from wild-type _T. pantotropha_, _T. pantotropha_ K7 and the _nirS_ deletion mutants $\\Delta5$, $\\Delta7$ and $\\Delta8$ using a _nirS_-derived probe. Genomic DNA was digested using _StyI_ and probed using a 141 bp PCR product derived from the _nirS_ gene using the primers nirSF and 228R (Table 3.1, Chapter 3), labelled with digoxigenin-alkaline phosphatase conjugate. The map below the blot indicates the _StyI_ sites in the 4.2 kbp _NotI_ fragment in which the deletion was made to give pRVS$\\Delta$nir. All of the expected fragments are visible on the blot except for the 2.1 kbp fragment in the insertion mutant strain; the larger size of this fragment and the small degree of overlap of the probe resulted in a very weak hybridisation that was barely visible on the original blot and cannot be seen on the photograph. The position of the 2.1 kbp fragment is indicated at the right of the gel, along with the other fragments. Lanes: 1, _T. pantotropha_ wild-type, 2, _T. pantotropha_ K7, 3-5, _T. pantotropha_ $\\Delta5$, $\\Delta7$ and $\\Delta8$. Enzymes: S, _StyI_, P, _PstI_, B, _BamHI_, E, _EcoRI_", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-10.png")
 ```
 
@@ -197,7 +197,7 @@ include_graphics(path = "figure/fig6-10.png")
 The kanamycin insertion mutant, unmarked deletion mutant and wild-type strains of _T. pantotropha_ were compared first by growing each strain anaerobically in minimal succinate
 medium plus 20 mM KNO$_3$ (Figure 6.11).
 
-```{r fig6-11, fig.cap="Comparison of the anaerobic growth of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increased absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ K7, (&#9650;) _T. pantotropha_ $\\Delta7$. The other deletion mutant strains ($\\Delta5$ and $\\Delta8$) grew identically to $\\Delta7$.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-11, fig.cap="Comparison of the anaerobic growth of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increased absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ K7, (&#9650;) _T. pantotropha_ $\\Delta7$. The other deletion mutant strains ($\\Delta5$ and $\\Delta8$) grew identically to $\\Delta7$.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-11.png")
 ```
 
@@ -209,7 +209,7 @@ up of toxic nitrite due to nitrate reductase activity. To confirm this, 1 ml sam
 from each of the three cultures, harvested and assayed colorimetrically for nitrite (Figure
 6.12).
 
-```{r fig6-12, fig.cap="Comparison of (a) the anaerobic growth and (b) nitrite accumulation of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples of culture were removed at each time point, centrifuged and the supernatant was assayed colorimetrically for nitrite. Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ K7, (&#9650;) _T. pantotropha_ $\\Delta7$.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-12, fig.cap="Comparison of (a) the anaerobic growth and (b) nitrite accumulation of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\\Delta7$. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples of culture were removed at each time point, centrifuged and the supernatant was assayed colorimetrically for nitrite. Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ K7, (&#9650;) _T. pantotropha_ $\\Delta7$.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-12.png")
 ```
 
@@ -229,7 +229,7 @@ protein from each extract was separated by SDS-PAGE, transferred to nitrocellulo
 probed by Western blotting using mouse antibody to _P. denitrificans_ cytochrome _cd_$_1$ (Figure
 6.13).
 
-```{r fig6-13, fig.cap="Western blot of total soluble extracts from wild-type _T. pantotropha_, _T. pantotropha_ K7, _T. pantotropha_ $\\Delta7$, T. pantotropha $\\Delta7$ [pMMBSEK] and _T. pantotropha_ $\\Delta7$ [pMMBY25F] using antibody raised against _P. denitrificans_ cytochrome _cd_$_1$. 40 $\\mu$g of protein was loaded in each lane and the samples were separated in a 6% acrylamide SDS-PAGE gel, transferred to nitrocellulose by semi-dry electroblotting and probed using the anti-cytochrome _cd_$_1$ antibody. The 63 kDa band (mature cytochrome _cd_$_1$) and 47 kDa band (truncated cytochrome _cd_$_1$) are indicated by the upper and lower arrows respectively. Lanes: 1, _T. pantotropha_ wild-type, 2, _T. pantotropha_ K7, 3, _T. pantotropha_ $\\Delta7$, 4, _T. pantotropha_ $\\Delta7$ [pMMBSEK], 5, _T. pantotropha_ $\\Delta7$ [pMMBY25F].", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-13, fig.cap="Western blot of total soluble extracts from wild-type _T. pantotropha_, _T. pantotropha_ K7, _T. pantotropha_ $\\Delta7$, T. pantotropha $\\Delta7$ [pMMBSEK] and _T. pantotropha_ $\\Delta7$ [pMMBY25F] using antibody raised against _P. denitrificans_ cytochrome _cd_$_1$. 40 $\\mu$g of protein was loaded in each lane and the samples were separated in a 6% acrylamide SDS-PAGE gel, transferred to nitrocellulose by semi-dry electroblotting and probed using the anti-cytochrome _cd_$_1$ antibody. The 63 kDa band (mature cytochrome _cd_$_1$) and 47 kDa band (truncated cytochrome _cd_$_1$) are indicated by the upper and lower arrows respectively. Lanes: 1, _T. pantotropha_ wild-type, 2, _T. pantotropha_ K7, 3, _T. pantotropha_ $\\Delta7$, 4, _T. pantotropha_ $\\Delta7$ [pMMBSEK], 5, _T. pantotropha_ $\\Delta7$ [pMMBY25F].", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-13.png")
 ```
 
@@ -249,7 +249,7 @@ restriction digests using _HindIII_ (not shown). The transformed cells were grow
 anaerobically in minimal succinate medium plus nitrate as before and the growth was
 compared with _T. pantotropha_, _T. pantotropha_ K7 and _T. pantotropha_ $\Delta7$ (Figure 6.14).
 
-```{r fig6-14, fig.cap="Complementation of _T. pantotropha_ $\\Delta7$ using plasmid pMMBSEK. Overnight cultures of _T. pantotropha_, _T. pantotropha_ $\\Delta7$ and _T. pantotropha_ $\\Delta7$ [pMMBSEK] were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ $\\Delta7$, (&#9650;) _T. pantotropha_ $\\Delta7$ [pMMBSEK].", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-14, fig.cap="Complementation of _T. pantotropha_ $\\Delta7$ using plasmid pMMBSEK. Overnight cultures of _T. pantotropha_, _T. pantotropha_ $\\Delta7$ and _T. pantotropha_ $\\Delta7$ [pMMBSEK] were inoculated at a dilution of 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ $\\Delta7$, (&#9650;) _T. pantotropha_ $\\Delta7$ [pMMBSEK].", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-14.png")
 ```
 
@@ -258,7 +258,7 @@ final optical density to the wild-type culture. The nitrite concentration in the
 from _T. pantotropha_ $\Delta7$ [pMMBSEK] also followed a similar time course to that in wild-
 type culture (Figure 6.15).
 
-```{r fig6-15, fig.cap="(a) Anaerobic growth of _T. pantotropha_ $\\Delta7$ [pMMBSEK] and (b) nitrite concentration in the medium during growth. An overnight culture of _T. pantotropha_ $\\Delta7$ [pMMBSEK] was inoculated 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples were removed at each time point, centrifuged and the supernatant was assayed colorimetrically for nitrite.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-15, fig.cap="(a) Anaerobic growth of _T. pantotropha_ $\\Delta7$ [pMMBSEK] and (b) nitrite concentration in the medium during growth. An overnight culture of _T. pantotropha_ $\\Delta7$ [pMMBSEK] was inoculated 1/100 into minimal succinate medium plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples were removed at each time point, centrifuged and the supernatant was assayed colorimetrically for nitrite.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-15.png")
 ```
 
@@ -278,7 +278,7 @@ The DNA fragment containing the Y25F mutant of cytochrome _cd_$_1$ was construct
 Dr. Simon Baker using the Promega Altered Sites II system. The mutagenic plasmid is
 outlined in Figure 6.16.
 
-```{r fig6-16, fig.cap="Construction of the plasmid pVA191-Y25F containing the Y25F mutation in the _nirS_ gene of _T. pantotropha_. A 600 bp _EcoRI_ fragment from the plasmid pBNIR (Chapter 4, Table 4.1) containing approximately the first 500 bp of the _nirS_ gene was cloned into the vector pALTER-1. The Promega Altered Sites II site-directed mutagenesis system was then used to anneal a mutagenic oligonucleotide to the gene, substituting phenylalanine for Tyr-25 and introducing a silent _MluI_ restriction site for screening during later manipulations. The insert was then sequenced to check for secondary mutations. The relevant sequence of the gene is shown, with the Y25F and _MluI_ mutations underlined. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, P, _PstI_, S, _SalI_. Plasmid pVA191-Y25F was constructed by Dr. Simon Baker.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-16, fig.cap="Construction of the plasmid pVA191-Y25F containing the Y25F mutation in the _nirS_ gene of _T. pantotropha_. A 600 bp _EcoRI_ fragment from the plasmid pBNIR (Chapter 4, Table 4.1) containing approximately the first 500 bp of the _nirS_ gene was cloned into the vector pALTER-1. The Promega Altered Sites II site-directed mutagenesis system was then used to anneal a mutagenic oligonucleotide to the gene, substituting phenylalanine for Tyr-25 and introducing a silent _MluI_ restriction site for screening during later manipulations. The insert was then sequenced to check for secondary mutations. The relevant sequence of the gene is shown, with the Y25F and _MluI_ mutations underlined. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, P, _PstI_, S, _SalI_. Plasmid pVA191-Y25F was constructed by Dr. Simon Baker.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-16.png")
 ```
 
@@ -288,7 +288,7 @@ fragment. The latter mutation allowed for rapid screening of mutant clones durin
 manipulations and the mutant plasmid was named pVA191-Y25F. The strategy for insertion
 of the Y25F mutation into the full-length _nirS_ gene is summarised in Figure 6.17.
 
-```{r fig6-17, fig.cap="Construction of the expression plasmid pMMBY25F containing the Y25F mutation in the _nirS_ gene of _T. pantotropha_. Only the relevant restriction fragments of each plasmid are shown. Full details of the plasmids are given in Table 6.1. Enzymes: B, _BamHI_, E, _EcoRI_, K, _KpnI_, M, _MluI_, N, _NotI_, P, (PstI), S, _SacI_.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-17, fig.cap="Construction of the expression plasmid pMMBY25F containing the Y25F mutation in the _nirS_ gene of _T. pantotropha_. Only the relevant restriction fragments of each plasmid are shown. Full details of the plasmids are given in Table 6.1. Enzymes: B, _BamHI_, E, _EcoRI_, K, _KpnI_, M, _MluI_, N, _NotI_, P, (PstI), S, _SacI_.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-17.png")
 ```
 
@@ -303,7 +303,7 @@ KS(+) which had been cut using the same enzymes. This construct was named pBY25F
 was analysed by restriction digestion and by partial sequencing using the 610F primer
 (Chapter 3, Table 3.1) to confirm the cloning (Figure 6.18).
 
-```{r fig6-18, fig.cap="Restriction digest analysis of plasmid pBY25FK. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _BamHI_ (lane 1), _EcoRI_ (lane 2), _HindIII_ (lane 3), _SalI_ (lane 4), _StyI_ (lane 5), _KpnI_ - _SacI_ (lane 6) and _NruI_ (lane 7). Plasmid pBY25F from which pBY25FK was derived had previously been screened for the presence of the mutagenic _MluI_ site. The pBluescript (II) vector contained one additional site for _EcoRI_, _HindIII_ and _SalI_. Analysis of the digests showed that the construct was correct as shown in the diagram below the gel. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, K, _KpnI_, N, _NruI_, S, _SalI_, Sa, _SacI_, St, _StyI_. The lane labelled II contained DNA size standards, some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-18, fig.cap="Restriction digest analysis of plasmid pBY25FK. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _BamHI_ (lane 1), _EcoRI_ (lane 2), _HindIII_ (lane 3), _SalI_ (lane 4), _StyI_ (lane 5), _KpnI_ - _SacI_ (lane 6) and _NruI_ (lane 7). Plasmid pBY25F from which pBY25FK was derived had previously been screened for the presence of the mutagenic _MluI_ site. The pBluescript (II) vector contained one additional site for _EcoRI_, _HindIII_ and _SalI_. Analysis of the digests showed that the construct was correct as shown in the diagram below the gel. Enzymes: B, _BamHI_, E, _EcoRI_, H, _HindIII_, K, _KpnI_, N, _NruI_, S, _SalI_, Sa, _SacI_, St, _StyI_. The lane labelled II contained DNA size standards, some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-18.png")
 ```
 
@@ -314,7 +314,7 @@ ligated into the broad host range vector pMMB67EH that had been cut with the sam
 enzymes. The final plasmid, pMMBY25F, was thus identical to pMMBSEK except for the
 Y25F mutation in the _nirS_ gene and was checked by digestion using _MluI_ (Figure 6.19).
 
-```{r fig6-19, fig.cap="Restriction digest analysis of plasmid pMMBY25F using _MluI_. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _MluI_ to check for the presence of the Y25F mutation in the _nirS_ gene. Plasmid pMMB67EH into which the _KpnI_ - _SacI_ insert from pBY25FK was cloned contains a single _MluI_ site, so this digest generated two fragments of approximate sizes 10.3 and 2.8 kbp, seen in lanes 1-7. Enzymes: K, _KpnI_, M, _MluI_, S, _SacI_. The lane labelled II contains DNA size standards, some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-19, fig.cap="Restriction digest analysis of plasmid pMMBY25F using _MluI_. Following ligation and transformation, plasmid DNA was isolated from the transformed cells and digested using _MluI_ to check for the presence of the Y25F mutation in the _nirS_ gene. Plasmid pMMB67EH into which the _KpnI_ - _SacI_ insert from pBY25FK was cloned contains a single _MluI_ site, so this digest generated two fragments of approximate sizes 10.3 and 2.8 kbp, seen in lanes 1-7. Enzymes: K, _KpnI_, M, _MluI_, S, _SacI_. The lane labelled II contains DNA size standards, some of which are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-19.png")
 ```
 
@@ -323,7 +323,7 @@ S17-1 and the transconjugants were selected on minimal succinate medium containi
 $\mu$g ml$^{-1}$ kanamycin. _T. pantotropha_ $\Delta7$ [pMMBY25F] was then grown anaerobically in
 minimal succinate medium plus nitrate containing 100 $\mu$g ml$^{-1}$ kanamycin (Figure 6.20a).
 
-```{r fig6-20, fig.cap="Comparison of (a) anaerobic growth and (b) nitrite accumulation in _T. pantotropha_ $\\Delta7$ [pMMBY25F] compared with that of _T. pantotropha_, _T. pantotropha_ $\\Delta7$ and _T. pantotropha_ $\\Delta7$ [pMMBSEK]. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate media plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples of each culture were removed at each time point and assayed colorimetrically for nitrite. Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ $\\Delta7$, (&#9650;) _T. pantotropha_ $\\Delta7$ [pMMBSEK], (x) _T. pantotropha_ $\\Delta7$ [pMMBY25F].", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-20, fig.cap="Comparison of (a) anaerobic growth and (b) nitrite accumulation in _T. pantotropha_ $\\Delta7$ [pMMBY25F] compared with that of _T. pantotropha_, _T. pantotropha_ $\\Delta7$ and _T. pantotropha_ $\\Delta7$ [pMMBSEK]. Overnight cultures of each strain were inoculated at a dilution of 1/100 into minimal succinate media plus 20 mM nitrate and growth was monitored by the increase in absorbance at 650 nm (logarithmic scale). 1 ml samples of each culture were removed at each time point and assayed colorimetrically for nitrite. Symbols: (&#9670;) _T. pantotropha_, (&#9632;) _T. pantotropha_ $\\Delta7$, (&#9650;) _T. pantotropha_ $\\Delta7$ [pMMBSEK], (x) _T. pantotropha_ $\\Delta7$ [pMMBY25F].", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-20.png")
 ```
 
@@ -342,7 +342,7 @@ spheroplasted to give 94 ml of periplasmic extract. The extract was bound to a D
 Sepharose column and eluted using a linear gradient of NaCl. Elution of haem proteins was
 followed by measuring the absorbance of the fractions at 410 nm (Figure 6.21).
 
-```{r fig6-21, fig.cap="Elution profile during ion exchange chromatography of soluble extract from anaerobically grown _T. pantotropha_ $\\Delta7$ [pMMBY25F]. 20 l of _T. pantotropha_ $\\Delta7$ [pMMBY25F] were grown anaerobically in minimal succinate medium plus 20 mM nitrate. A total soluble extract prepared from the cells was bound to a DEAE-Sepharose column (2 x 20 cm) and eluted with a 350 ml linear gradient of 0-400 mM NaCl in 50 mM Tris-HCl pH 8.0 (&#9670;). Elution of haem proteins was followed by measuring the absorbance of the fractions at 410 nm (&#9632;). Elution of the blue copper protein pseudoazurin in fractions 28-35 was monitored by absorbance at 595 nm (&#9650;). The three major elution peaks are labelled numbers 2-4. As described in the text, a fourth _c_-type cytochrome eluted from the column either in the early fractions or during washing. In the above experiment this protein eluted during washing and was collected; however it is still referred to as peak 1.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-21, fig.cap="Elution profile during ion exchange chromatography of soluble extract from anaerobically grown _T. pantotropha_ $\\Delta7$ [pMMBY25F]. 20 l of _T. pantotropha_ $\\Delta7$ [pMMBY25F] were grown anaerobically in minimal succinate medium plus 20 mM nitrate. A total soluble extract prepared from the cells was bound to a DEAE-Sepharose column (2 x 20 cm) and eluted with a 350 ml linear gradient of 0-400 mM NaCl in 50 mM Tris-HCl pH 8.0 (&#9670;). Elution of haem proteins was followed by measuring the absorbance of the fractions at 410 nm (&#9632;). Elution of the blue copper protein pseudoazurin in fractions 28-35 was monitored by absorbance at 595 nm (&#9650;). The three major elution peaks are labelled numbers 2-4. As described in the text, a fourth _c_-type cytochrome eluted from the column either in the early fractions or during washing. In the above experiment this protein eluted during washing and was collected; however it is still referred to as peak 1.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-21.png")
 ```
 
@@ -356,7 +356,7 @@ absorbance at 595 nm as shown in Figure 6.21.
 15 $\mu$l of the fraction from the top of Peaks 1-4 was separated by SDS-PAGE and
 stained in order to identify _c_-type cytochromes (Figure 6.22).
 
-```{r fig6-22, fig.cap="SDS-PAGE gel of fractions eluting from the DEAE-Sepharose column during chromatography of soluble extract from _T. pantotropha_ $\\Delta7$ [pMMBY25F], stained for _c_-type cytochromes. 15 $\\mu$l of the top fraction from each peak was loaded on a 15% acrylamide SDS-PAGE gel, electrophoresed and stained for covalently-attached haem. The lane numbers refer to the peaks in Figure 6.21. Estimated molecular weights of the bands determined from an identical Coomassie-stained gel are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-22, fig.cap="SDS-PAGE gel of fractions eluting from the DEAE-Sepharose column during chromatography of soluble extract from _T. pantotropha_ $\\Delta7$ [pMMBY25F], stained for _c_-type cytochromes. 15 $\\mu$l of the top fraction from each peak was loaded on a 15% acrylamide SDS-PAGE gel, electrophoresed and stained for covalently-attached haem. The lane numbers refer to the peaks in Figure 6.21. Estimated molecular weights of the bands determined from an identical Coomassie-stained gel are indicated at the left of the gel.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-22.png")
 ```
 
@@ -366,7 +366,7 @@ weights on SDS-PAGE of 17, 12 and 45 kDa respectively. Peaks 1 and 3 did not sta
 strongly when Coomassie Blue was used to stain the gel (not shown). UV-visible spectroscopy was used to characterise further the coloured fractions. As isolated, peak 1
 exhibited absorbance maxima at 406 and 528 nm (Figure 6.23a).
 
-```{r fig6-23, fig.cap="Visible spectra of an unidentified _c_-type cytochrome from _T. pantotropha_ [pMMBY25F]. As isolated, peak 1 showed absorbance maxima at 406 and 528 nm (a). When reduced with dithionite in the presence of air, the cytochrome auto-oxidised rapidly. Reduction under argon produced new absorbance maxima at 416, 521 and 550 nm (b). The spectra are characteristic of a cytochrome _c_.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-23, fig.cap="Visible spectra of an unidentified _c_-type cytochrome from _T. pantotropha_ [pMMBY25F]. As isolated, peak 1 showed absorbance maxima at 406 and 528 nm (a). When reduced with dithionite in the presence of air, the cytochrome auto-oxidised rapidly. Reduction under argon produced new absorbance maxima at 416, 521 and 550 nm (b). The spectra are characteristic of a cytochrome _c_.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-23.png")
 ```
 
@@ -377,7 +377,7 @@ _c_ oxidase activities (not shown). Spectroscopy of peaks 2 (Figure 6.24a) and 3
 6.24b) after reduction with sodium dithionite identified them as cytochrome c$_{550}$ and
 cytochrome _c_' respectively.
 
-```{r fig6-24, fig.cap="Visible spectra of (a) cytochrome _c_$_{550}$ and (b) cytochrome _c_' from _T. pantotropha_ [pMMBY25F]. Peak 2 had absorbance maxima at 415, 522 and 550 nm when reduced. It was identified by spectroscopy, elution position and size on SDS-PAGE as cytochrome _c_$_{550}$. Peak 3 had absorbance maxima at 410, 500 and 604 nm when reduced and showed a shoulder to the red side of the peak at 410 nm. It was identified as being cytochrome _c_' using the methods employed to identify cytochrome _c_$_{550}$.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-24, fig.cap="Visible spectra of (a) cytochrome _c_$_{550}$ and (b) cytochrome _c_' from _T. pantotropha_ [pMMBY25F]. Peak 2 had absorbance maxima at 415, 522 and 550 nm when reduced. It was identified by spectroscopy, elution position and size on SDS-PAGE as cytochrome _c_$_{550}$. Peak 3 had absorbance maxima at 410, 500 and 604 nm when reduced and showed a shoulder to the red side of the peak at 410 nm. It was identified as being cytochrome _c_' using the methods employed to identify cytochrome _c_$_{550}$.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-24.png")
 ```
 
@@ -385,7 +385,7 @@ The spectrum of the dark-brown coloured peak 3 exhibited absorbance maxima at 40
 526 and 639 nm as isolated (Figure 6.25a) and at 419, 524, 556 and 620 nm when reduced
 with sodium dithionite (Figure 6.25b).
 
-```{r fig6-25, fig.cap="Visible spectra of cytochrome _c_ peroxidase from _T. pantotropha_ [pMMBY25F]. Peak 4 as isolated showed absorbance maxima at 408, 526 and 639 nm. When reduced with sodium dithionite, absorbance maxima were seen at 419, 524, 556 and 620 with a shoulder at the blue side of the 556 nm peak. Peak 4 was identified by spectroscopy, size on SDS-PAGE and enzyme assay as cytochrome _c_ peroxidase.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-25, fig.cap="Visible spectra of cytochrome _c_ peroxidase from _T. pantotropha_ [pMMBY25F]. Peak 4 as isolated showed absorbance maxima at 408, 526 and 639 nm. When reduced with sodium dithionite, absorbance maxima were seen at 419, 524, 556 and 620 with a shoulder at the blue side of the 556 nm peak. Peak 4 was identified by spectroscopy, size on SDS-PAGE and enzyme assay as cytochrome _c_ peroxidase.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-25.png")
 ```
 
@@ -394,7 +394,7 @@ assayed the peak 3 fractions did have a significant peroxidase activity, oxidisi
 horse heart cytochrome _c_ per minute per $\mu$l of fraction in the presence of 18 $\mu$M H$_2$O$_2$
 (Figure 6.26).
 
-```{r fig6-26, fig.cap="Assay of cytochrome _c_ peroxidase activity in peak 4 following ion exchange chromatography. The assay was performed in a volume of 1 ml, containing 50 mM Tris-HCl pH 8.0, 25 $\\mu$M horse heart cytochrome _c_ and varying volumes of the fractions from the top of peak 4. After incubation of these components for 1 minute to reduce the peroxidase (Gilmour et al., 1994), the reaction was initiated by the addition of 18 $\\mu$M H$_2$O$_2$. Oxidation of cytochrome _c_ was followed by the decrease in absorbance at 550 nm.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-26, fig.cap="Assay of cytochrome _c_ peroxidase activity in peak 4 following ion exchange chromatography. The assay was performed in a volume of 1 ml, containing 50 mM Tris-HCl pH 8.0, 25 $\\mu$M horse heart cytochrome _c_ and varying volumes of the fractions from the top of peak 4. After incubation of these components for 1 minute to reduce the peroxidase (Gilmour et al., 1994), the reaction was initiated by the addition of 18 $\\mu$M H$_2$O$_2$. Oxidation of cytochrome _c_ was followed by the decrease in absorbance at 550 nm.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-26.png")
 ```
 
@@ -402,7 +402,7 @@ In addition to the cytochrome-containing fractions, the blue fractions 28-35
 were identified by visible spectroscopy as the small copper protein pseudoazurin (Figure
 6.27).
 
-```{r fig6-27, fig.cap="Visible spectrum of pseudoazurin from _T. pantotropha_ [pMMBY25F]. Fractions 28-35 (Figure 6.21) were coloured pale-blue. The blue material had absorbance maxima at 408, 587 and 739 nm as isolated. Although the spectrum does not exactly match published spectra for pseudoazurin from _T. pantotropha_ [@moir_purification_1993], it could be identified by size on SDS-PAGE and elution position. The peak at 408 nm overlays a peak at 450 nm and probably indicates contamination of the pseudoazurin peak by the small cytochrome _c_ in peak 1.", fig.align='center', echo=FALSE, out.width='75%'}
+```{r fig6-27, fig.cap="Visible spectrum of pseudoazurin from _T. pantotropha_ [pMMBY25F]. Fractions 28-35 (Figure 6.21) were coloured pale-blue. The blue material had absorbance maxima at 408, 587 and 739 nm as isolated. Although the spectrum does not exactly match published spectra for pseudoazurin from _T. pantotropha_ [@moir_purification_1993], it could be identified by size on SDS-PAGE and elution position. The peak at 408 nm overlays a peak at 450 nm and probably indicates contamination of the pseudoazurin peak by the small cytochrome _c_ in peak 1.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-27.png")
 ```
 
