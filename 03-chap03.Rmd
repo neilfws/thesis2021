@@ -55,7 +55,7 @@ table3_2 <- data.frame(`DNA sequence of repeat in _T. pantotropha_` = c("Repeat 
                        check.names = FALSE)
 
 kable(table3_2,
-      caption = "Comparison of inverted repeats in the DNA sequence of the nir region from _T. pantotropha_ with those in the same region of _P. denitrificans_ PD1222. The sequences are numbered according to the GenBank accession numbers U75413 (_T. pantotropha_) and U05002 (_P. denitrificans_ PD1222). Previously assigned functions of the repeats in the _P. denitrificans_ PD1222 sequence are taken from the GenBank sequence annotation and from de Boer et al. (1994) [@de_boer_isolation_1994].",
+      caption = "Comparison of inverted repeats in the DNA sequence of the _nir_ region from _T. pantotropha_ with those in the same region of _P. denitrificans_ PD1222. The sequences are numbered according to the GenBank accession numbers U75413 (_T. pantotropha_) and U05002 (_P. denitrificans_ PD1222). Previously assigned functions of the repeats in the _P. denitrificans_ PD1222 sequence are taken from the GenBank sequence annotation and from de Boer et al. (1994) [@de_boer_isolation_1994].",
       escape = FALSE) %>% 
   column_spec(1, monospace = TRUE) %>% 
   column_spec(2, monospace = TRUE) %>% 
@@ -113,7 +113,7 @@ table3_4 <- data.frame(`Sequence ID` = c("**Length**", "**Molecular weight (Da)*
 
 kable(table3_4,
       escape = FALSE,
-      caption = "Table 3.4 Comparison of the physicochemical properties of cytochrome _cd_$_1$ from different sources. Sequence abbreviations are as in Table 3.3 and Figure 3.4. Cytochrome _cd_$_1$ sequences were retrieved from the GenBank and SwissProt databases. The data presented in the table was obtained using the program ProtParam [@appel_new_1994].")
+      caption = "Comparison of the physicochemical properties of cytochrome _cd_$_1$ from different sources. Sequence abbreviations are as in Table 3.3 and Figure 3.4. Cytochrome _cd_$_1$ sequences were retrieved from the GenBank and SwissProt databases. The data presented in the table was obtained using the program ProtParam [@appel_new_1994].")
 ```
 
 ## Discussion

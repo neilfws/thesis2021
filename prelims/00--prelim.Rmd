@@ -64,6 +64,116 @@ Some of the work in this thesis has been published.
 
 6. Hu, W., Van Driessche, G., Devreese, B., Goodhew, C.F., McGinnity, D.F., Saunders, N., Fülöp, V., Pettigrew, G.W. and Van Beeumen, J.J. (1997). Structural characterization of _Paracoccus denitrificans_ cytochrome _c_ peroxidase and assignment of the low and high potential heme sites. Biochemistry 36: 7958-7966.
 
+## List of Figures {-}
+
+|Chapter|Figure|Title|
+|:-|:-|-:|
+|Chapter 1|\@ref(fig:fig1-1)|The Nitrogen Cycle|
+||\@ref(fig:fig1-2)|<nobr>The denitrifying electron transport chain of _Paracoccus denitrificans_</nobr>|
+||\@ref(fig:fig1-3)|Structure of (a) _d_$_1$ haem and (b) of protoporphyrin IX|
+||\@ref(fig:fig1-4)|Crystal structure of cytochrome _cd_$_1$ in the oxidised form from _T. pantotropha_|
+||\@ref(fig:fig1-5)|Proposed mechanism for nitrite reduction by cytochrome _cd_$_1$ from _Thiosphaera pantotropha_|
+||\@ref(fig:fig1-6)|Denitrification gene clusters in _Ps. stutzeri_ Zobell, _Ps. aeruginosa_ and _P. denitrificans_ PD1222|
+||\@ref(fig:fig1-7)|Unrooted phylogenetic tree of the FNR family of transcriptional activator proteins|
+|Chapter 3|\@ref(fig:fig3-1)|PCR products used to sequence the _nirS_ gene of _T. pantotropha_|
+||\@ref(fig:fig3-2)|Sequence of the _nirS_ gene and its product, cytochrome _cd_$_1$, from _T. pantotropha_|
+||\@ref(fig:fig3-3)|Predicted cleavage site of the periplasmic targeting sequence in cytochrome _cd_$_1$ from _T. pantotropha_|
+||\@ref(fig:fig3-4)|Multiple alignment of cytochrome _cd_$_1$ sequences|
+||\@ref(fig:fig3-5)|Phylogenetic tree of cytochrome _cd_$_1$ sequences compared with a phylogenetic tree of 16S rRNA sequences from the same organisms|
+||\@ref(fig:fig3-6)|Putative NNR binding sites in the upstream regions of the _nirS_ gene aligned with the FNR consensus binding site|
+||\@ref(fig:fig3-7)|Early region of the _nirS_ gene from _Ps. stutzeri_ ATCC 14405, showing primers used for re-sequencing and the sequence obtained|
+||\@ref(fig:fig3-8)|Visible spectra of cytochrome _cd_$_1$ (a) in the oxidised and (b) in the reduced forms from _Ps. stutzeri_ Zobell|
+||\@ref(fig:fig3-9)|Visible spectra of (a) holocytochrome _cd_$_1$ and (b) semi-apo cytochrome _cd_$_1$ in the reduced forms from _T. pantotropha_|
+||\@ref(fig:fig3-10)|Alternative reaction schemes for the reduction of nitrite by cytochrome _cd_$_1$ starting from the fully oxidised enzyme|
+|Chapter 4|\@ref(fig:fig4-1)|Physical map of the plasmid pTNIR3 produced using six restriction enzymes|
+||\@ref(fig:fig4-2)|Location of denitrification genes of _T. pantotropha_ on the plasmid pTNIR3 as determined by physical mapping and limited sequencing.|
+||\@ref(fig:fig4-3)|Diagram of the broad host range expression vector pMMB67EH, showing relevant features|
+||\@ref(fig:fig4-4)|Restriction digests illustrating the problem of vector carryover during cloning of the _T. pantotropha_ _nirS_ gene into pMMB67EH|
+||\@ref(fig:fig4-5)|Restriction digest analysis of the plasmids pMMBSE and pMMBSEK|
+||\@ref(fig:fig4-6)|Comparison of the aerobic growth of _E. coli_, _E. coli_ [pMMB67EH], _E. coli_ [pMMBSEK] and _E. coli_ [pMMBSE]|
+||\@ref(fig:fig4-7)|Comparison of the anaerobic growth of _E. coli_ JM83 with that of _E. coli_ [pMMB67EH]|
+||\@ref(fig:fig4-8)|Comparison of the protein content of _E. coli_ JM83 with that of _E. coli_ [pMMB67EH], _E. coli_ [pMMBSEK] and _E. coli_ [pMMBSE]. |
+||\@ref(fig:fig4-9)|Western blot of protein samples from _E. coli_ JM83, _E. coli_ [pMMB67EH], _E. coli_ [pMMBSEK] and _E. coli_ [pMMBSE], probed using antibody to cytochrome _cd_$_1$|
+||\@ref(fig:fig4-10)|Comparison of the _c_-type cytochrome content of _E. coli_ [pMMBSE] grown under aerobic or anaerobic conditions|
+||\@ref(fig:fig4-11)|Visible spectrum of soluble extract from _E. coli_ [pMMBSE] grown anaerobically and induced with 1 mM IPTG|
+||\@ref(fig:fig4-12)|Elution profile during ion exchange chromatography of soluble extract from anaerobically-grown _E. coli_ [pMMBSE] induced using IPTG|
+||\@ref(fig:fig4-13)|UV-visible spectrum of recombinant semi-apo cytochrome _cd_$_1$ following ion-exchange chromatography|
+||\@ref(fig:fig4-14)|Visible spectra of recombinant cytochrome _cd_$_1$ following reconstitution with purified haem _d_$_1$ (a) as prepared, (b) following reduction using sodium dithionite, compared with (c) native cytochrome _cd_$_1$ from _T. pantotropha_|
+||\@ref(fig:fig4-15)|Assays for nitrite reductase activity using reduced methyl viologen as an electron donor: (a) recombinant semi-apo cytochrome _cd_$_1$, (b) recombinant cytochrome _cd_$_1$ following reconstitution with _d_$_1$ haem, (c) native cytochrome _cd_$_1$ purified from _T. pantotropha_|
+|Chapter 5|\@ref(fig:fig5-1)|Re-isolation of intact plasmid pMMBSE from _Ps. aeruginosa_ PAO1|
+||\@ref(fig:fig5-2)|Comparison of the growth curves of _Ps. aeruginosa_ and _Ps. aeruginosa_ [pMMBSE] under different growth conditions|
+||\@ref(fig:fig5-3)|Comparison of (a) the growth curve and (b) nitrite accumulation of _Ps. aeruginosa_ with that of _Ps. aeruginosa_ [pMMBSE]|
+||\@ref(fig:fig5-4)|Comparison of the protein content of _Ps. aeruginosa_ with that of _Ps. aeruginosa_ [pMMBSE] under different growth conditions|
+||\@ref(fig:fig5-5)|Western blot of protein samples from _Ps. aeruginosa_ or _Ps. aeruginosa_ [pMMBSE] grown under different growth conditions, probed using antibody to cytochrome _cd_$_1$|
+||\@ref(fig:fig5-6)|Comparison of the _c_-type cytochrome content of _Ps. aeruginosa_ with that of _Ps. aeruginosa_ [pMMBSE] under different growth conditions|
+||\@ref(fig:fig5-7)|Elution profile during ion-exchange chromatography of soluble extract from _Ps. aeruginosa_ [pMMBSE] grown semi-aerobically with nitrate and induced using IPTG|
+||\@ref(fig:fig5-8)|Analysis of the _c_-type cytochrome content in the elution profile of soluble extract from _Ps. aeruginosa_ [pMMBSE] following ion exchange chromatography|
+||\@ref(fig:fig5-9)|UV-visible spectrum of concentrated fractions eluting under peak 2 following DEAE-Sepharose chromatography|
+||\@ref(fig:fig5-10)|a) UV-visible spectrum of concentrated fractions eluting under peak 3 after DEAE-Sepharose chromatography, as isolated and (b) after the addition of excess sodium dithionite|
+||\@ref(fig:fig5-11)|Difference spectra of (a) dithionite-reduced minus as-isolated spectra from peak 3 and (b) dithionite-reduced peak 3 minus peak 2|
+||\@ref(fig:fig5-12)|Cytochrome _c_ oxidase and (b) nitrite reductase activities of the concentrated fractions from peak 3 following ion exchange chromatography|
+|Chapter 6|\@ref(fig:fig6-1)|Construction of a kanamycin insertional mutant in the _nir_ region of the _T. pantotropha_ genome|
+||\@ref(fig:fig6-2)|Construction of a _nirS_ deletion mutant strain in _T. pantotropha_|
+||\@ref(fig:fig6-3)|Construction of the suicide plasmid pGRPN3K|
+||\@ref(fig:fig6-4)|Restriction digest analysis of plasmid pGRPN3K|
+||\@ref(fig:fig6-5)|Southern blot of genomic DNA from _T. pantotropha_ K7 using the kanamycin resistance gene as a probe|
+||\@ref(fig:fig6-6)|Construction of the suicide plasmid pRVS$\Delta$nir|
+||\@ref(fig:fig6-7)|Restriction digest analysis of plasmids pLN3N and pLN3N$\Delta$nir|
+||\@ref(fig:fig6-8)|Restriction digest analysis of plasmids pRVS1 and pRVS$\Delta$nir|
+||\@ref(fig:fig6-9)|PCR analysis of plasmid pRVS$\Delta$nir showing a 382 bp deletion in the cloned _nirS_ gene|
+||\@ref(fig:fig6-10)|Southern blot of genomic DNA from wild-type _T. pantotropha_, _T. pantotropha_ K7 and the _nirS_ deletion mutants $\Delta5$, $\Delta7$ and $\Delta8$ using a _nirS_-derived probe|
+||\@ref(fig:fig6-11)|Comparison of the anaerobic growth of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\Delta7$|
+||\@ref(fig:fig6-12)|Comparison of (a) the anaerobic growth and (b) nitrite accumulation of _T. pantotropha_ with that of _T. pantotropha_ K7 and _T. pantotropha_ $\Delta7$|
+||\@ref(fig:fig6-13)|Western blot of total soluble extracts from wild-type _T. pantotropha_, _T. pantotropha_ K7, _T. pantotropha_ $\Delta7$, _T. pantotropha_ $\Delta7$ [pMMBSEK] and _T. pantotropha_ $\Delta7$ [pMMBY25F] using antibody raised against _P. denitrificans_ cytochrome _cd_$_1$|
+||\@ref(fig:fig6-14)|Complementation of _T. pantotropha_ $\Delta7$ using plasmid pMMBSEK|
+||\@ref(fig:fig6-15)|(a) Anaerobic growth of _T. pantotropha_ $\Delta7$ [pMMBSEK] and (b) nitrite concentration in the medium during growth|
+||\@ref(fig:fig6-16)|Construction of the plasmid pVA191-Y25F containing the Y25F mutation in the _nirS_ gene of _T. pantotropha_|
+||\@ref(fig:fig6-17)|Construction of the expression plasmid pMMBY25F containing the Y25F mutation in the _nirS_ gene of _T. pantotropha_|
+||\@ref(fig:fig6-18)|Restriction digest analysis of plasmid pBY25FK|
+||\@ref(fig:fig6-19)|Restriction digest analysis of plasmid pMMBY25F using _MluI_|
+||\@ref(fig:fig6-20)|Comparison of (a) anaerobic growth and (b) nitrite accumulation in _T. pantotropha_ $\Delta7$ [pMMBY25F] compared with that of _T. pantotropha_, _T. pantotropha_ $\Delta7$ and _T. pantotropha_ $\Delta7$ [pMMBSEK]|
+||\@ref(fig:fig6-21)|Elution profile during ion exchange chromatography of soluble extract from anaerobically grown _T. pantotropha_ $\Delta7$ [pMMBY25F]|
+||\@ref(fig:fig6-22)|SDS-PAGE gel of fractions eluting from the DEAE-Sepharose column during chromatography of soluble extract from _T. pantotropha_ $\Delta7$ [pMMBY25F], stained for _c_-type cytochromes|
+||\@ref(fig:fig6-23)|Visible spectra of an unidentified _c_-type cytochrome from _T. pantotropha_ [pMMBY25F]|
+||\@ref(fig:fig6-24)|Visible spectra of (a) cytochrome _c_$_{550}$ and (b) cytochrome _c_' from _T. pantotropha_ [pMMBY25F]|
+||\@ref(fig:fig6-25)|Visible spectra of cytochrome _c_ peroxidase from _T. pantotropha_ [pMMBY25F]|
+||\@ref(fig:fig6-26)|Assay of cytochrome _c_ peroxidase activity in peak 4 following ion exchange chromatography|
+||\@ref(fig:fig6-27)|Visible spectrum of pseudoazurin from _T. pantotropha_ [pMMBY25F]|
+|Chapter 7|\@ref(fig:fig7-1)|Analysis of total RNA samples from human cells, _E. coli_ and _T. pantotropha_ using denaturing agarose gel electrophoresis|
+||\@ref(fig:fig7-2)|Northern blot of total RNA from anaerobically grown _T. pantotropha_ using a _nirS_-derived probe|
+||\@ref(fig:fig7-3)|Northern blot of total RNA from anaerobically grown _T. pantotropha_, using a _nirS_-derived probe together with chemiluminescent detection|
+||\@ref(fig:fig7-4)|Location of primers used in primer extension and 5'-RACE experiments to determine the transcription start site of the _T. pantotropha nirS_ gene|
+||\@ref(fig:fig7-5)|Primer extension product synthesised from _nirS_ mRNA, compared with a sequencing ladder generated from the _nirS_ gene using the same primer|
+||\@ref(fig:fig7-6)|The upstream region of the _T. pantotropha nirS_ gene, showing the transcription start site as determined using primer extension and 5'-RACE|
+||\@ref(fig:fig7-7)|Schematic diagram illustrating the principle of the 5'-RACE method|
+||\@ref(fig:fig7-8)|Analysis using agarose gel electrophoresis of the PCR product generated from _nirS_ mRNA by 5'-RACE|
+||\@ref(fig:fig7-9)|Restriction digest analysis of the cloned PCR products generated from _nirS_ mRNA by 5'-RACE|
+||\@ref(fig:fig7-10)|Sequence of the cloned PCR product synthesised from _nirS_ mRNA by 5'-RACE|
+||\@ref(fig:fig7-11)|Model for transcriptional termination of the _T. pantotropha nirS_ gene|
+||\@ref(fig:fig7-12)|Alignments of the upstream regions of NNR-regulated genes from _P. denitrificans_ and _T. pantotropha_ showing regions of conserved sequence|
+||\@ref(fig:fig7-13)|Putative factors influencing the transcription of nitrite and nitric oxide reductases in _T. pantotropha_|
+|Appendix A|\@ref(fig:figA-1)|Schematic diagram of the $\beta$-propeller _d_$_1$-haem binding domain of _T. pantotropha_ cytochrome _cd_$_1$|
+
+
+## List of Tables {-}
+
+|Chapter|Table|Title|
+|:-|:-|-:|
+|Chapter 1|\@ref(tab:table11)|Reduction potentials and thermodynamics of the reactions of denitrification|
+||\@ref(tab:table12)|Standard reduction potentials reported by other workers of the haem groups in cytochrome _cd_$_1$|
+|Chapter 3|\@ref(tab:table31)|Primers used to sequence the _nirS_ gene from _T. pantotropha_|
+||\@ref(tab:table32)|Comparison of inverted repeats in the DNA sequence of the _nir_ region from _T. pantotropha_ with those in the same region of _P. denitrificans_ PD1222|
+||\@ref(tab:table33)|Matrix of similarities and identities between the cytochromes _cd_$_1$|
+||\@ref(tab:table34)|Comparison of the physicochemical properties of cytochrome _cd_$_1$ from different sources|
+|Chapter 4|\@ref(tab:table41)|Plasmids referred to in this chapter|
+||\@ref(tab:table42)|Different growth conditions used to compare the growth of _E. coli_ JM83 with that of _E. coli_ containing either pMMB67EH, pMMBSEK or pMMBSE|
+||\@ref(tab:table43)|Comparison of the ratios of the absorbance maxima in (left) the reduced and (right) the oxidised states of native holo- and chemically prepared semi-apo cytochrome _cd_$_1$ from _T. pantotropha_ with those of the recombinant protein from _E. coli_|
+|Chapter 5|\@ref(tab:table51)|Different growth conditions used to compare the growth of _Ps. aeruginosa_ PAO1 with that of _Ps. aeruginosa_ [pMMBSE]|
+||\@ref(tab:table52)|Comparison of the ratios of the absorbance maxima in the reduced state of native holo- and chemically-prepared semi-apo cytochrome _cd_$_1$ from _T. pantotropha_ with those of the partially purified recombinant protein from _Ps. aeruginosa_ or _E. coli_|
+|Chapter 6|\@ref(tab:table61)|Bacterial strains and plasmids referred to in this chapter|
+|Chapter 7|\@ref(tab:table71)|Proteins involved in regulating the expression of denitrification enzymes in _P. denitrificans_|
+
+
 ## List of Abbreviations {-}
 
 |Abbreviation|Meaning|
