@@ -47,7 +47,7 @@ bibliography: bib/thesis2021.bib
 link-citations: true
 # Download your specific csl file and refer to it in the line below.
 #csl: csl/apa.csl
-csl: csl/biochemistry.csl
+csl: csl/bmc-bioinformatics.csl
 lot: true
 lof: true
 ---
