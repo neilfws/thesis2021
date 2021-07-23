@@ -8,7 +8,7 @@ such as those involved in the assembly of the _d_$_1$ haem group in cytochrome _
 However, very little transcriptional analysis of denitrification gene operons has
 been reported. Most of the work in this field has been performed in _Ps. stutzeri_ Zobell. In
 this organism, transcription start site analysis has been reported for the genes _fnrA_ [@cuypers_anaerobic_1993], _norCB_ [@zumft_nitric_1994] and _nosZ_ [@cuypers_multiple_1995] and Northern blotting has been used to determine the major transcripts from these genes. Northern
-blotting of transcripts from the _nirS_ gene region has also been reported [@zumft_notitle_1995].
+blotting of transcripts from the _nirS_ gene region has also been reported [@zumft_diversity_1995].
 Similar analysis of the _nor_ genes [@bartnikas_characterization_1997] and the _nirK_ gene which encodes a
 copper nitrite reductase [@tosques_characterization_1997] have been performed using _Rhodobacter sphaeroides_. 
 In other cases sequence analysis has been employed, as in the _nir_ operon of _Ps. aeruginosa_ [@kawasaki_gene_1997] 
@@ -225,7 +225,7 @@ termination site [@farnham_model_1980].
 
 Transcription of the _nir_ region in _T. pantotropha_ thus appears to differ from that of
 the _nir_ genes in _Ps. stutzeri_ Zobell and _Ps. aeruginosa_. In _Ps. stutzeri_ Zobell two transcripts
-containing either _nirS_ or _nirS_ plus _nirT_ have been detected [@zumft_notitle_1995], whilst in _Ps. aeruginosa_ 
+containing either _nirS_ or _nirS_ plus _nirT_ have been detected [@zumft_diversity_1995], whilst in _Ps. aeruginosa_ 
 no transcript analysis has been performed to date, although analysis of the _nir_ region suggests a large single transcript containing the genes _nirSMCFDLGHJEN_ terminated
 by a stem-loop structure [@bartnikas_characterization_1997]. Chemiluminescent detection of the _nirS_
 gene probe using a high-stringency protocol that is at least as sensitive as $^{32}$P-based methods
