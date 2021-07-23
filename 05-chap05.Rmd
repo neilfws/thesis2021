@@ -67,8 +67,8 @@ conditions gave rise to nine different cultures, detailed in Table 5.1.
 ```{r table51, echo=FALSE, results='asis'}
 table5_1 <- data.frame(`Culture number` = 1:9,
                        `Growth conditions` = c("aerobic", "", "", "aerobic + 50 mM KNO$_3$", "", "", "anaerobic", "", ""),
-                       `pMMBSE present` = c("n", "y", "y", "n", "y", "y", "n", "y", "y"),
-                       `IPTG added` = c("n", "n", "y", "n", "n", "y", "n", "n", "y"),
+                       `pMMBSE present` = c("", "&#10003;", "&#10003;", "", "&#10003;", "&#10003;", "", "&#10003;", "&#10003;"),
+                       `IPTG added` = c("", "", "&#10003;", "", "", "&#10003;", "", "", "&#10003;"),
                        check.names = FALSE)
 
 kable(table5_1,
