@@ -341,7 +341,7 @@ the consensus sequence that is recognised by RpoN differs from the -35/-10 $\sig
 found in _E. coli_ (Figure 7.12). The minimum requirement for an RpoN-dependent promoter
 is a GC dinucleotide found 11-14 base pairs upstream of the transcription start site (most
 often found at the -12 position) and an invariant GG dinucleotide 10 bp further upstream.
-most often at the -24 position [@thony_-24-12_1989]. In Figure 7.12 it can be
+most often at the -24 position [@thony_2412_1989]. In Figure 7.12 it can be
 seen that the regions upstream of _nirI_ and _nnr_ contain these dinucleotides with 
 the correct spacing relative to each other and some additional sequence conservation at other residues.
 However, the _nirS_, _nirE_ and _norCB_ genes lack one of the guanine residues in the invariant
