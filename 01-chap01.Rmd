@@ -5,7 +5,7 @@
 Many chemical elements of biological importance are cycled through the biosphere by a combination of physical and biological processes, in what are termed biogeochemical cycles.
 One of these cycles is the nitrogen cycle shown schematically in Figure 1.1.
 
-```{r fig1-1, fig.cap="The nitrogen cycle. The oxidation state of nitrogen in each intermediate is given in brackets. Denitrification is shown by black arrows, nitrogen fixation by a dark grey arrow and all other reactions by light grey arrows. Note that nitrification involves two reactions, oxidation of ammonia to nitrite and of nitrite to nitrate, but these have never been found together in the same organism. ANAMOX (anaerobic ammonia oxidation) is a poorly-characterised process in which nitrite and ammonia combine to give water and dinitrogen [@society_for_general_microbiology_nitrogen_1992].", fig.align="center", echo=FALSE, out.width="50%"}
+```{r fig1-1, fig.cap="The nitrogen cycle. The oxidation state of nitrogen in each intermediate is given in brackets. Denitrification is shown by black arrows, nitrogen fixation by a dark grey arrow and all other reactions by light grey arrows. Note that nitrification involves two reactions, oxidation of ammonia to nitrite and of nitrite to nitrate, but these have never been found together in the same organism. ANAMOX (anaerobic ammonia oxidation) is a poorly-characterised process in which nitrite and ammonia combine to give water and dinitrogen [@fry_nitrogen_1992].", fig.align="center", echo=FALSE, out.width="50%"}
 include_graphics(path = "figure/fig1-1.png")
 ```
 
