@@ -75,7 +75,7 @@ table6_1 <- data.frame(`Plasmid name` = c("pUC4K", "pGEM5zf(+)", "pGRPd1", "pRVS
                                        "",
                                        "_T. pantotropha_ containing kanamycin resistance gene in promoter region of _nirI_",
                                        "_T. pantotropha_ containing a 382 bp deletion in the _nirS_ gene"),
-                       `Source or reference` = c("Pharmacia", " Promega", "Van Spanning et al. (1990) [@van_spanning_mutagenesis_1990]", "Van Spanning et al. (1991a) [@van_spanning_method_1991]", "Fürste et al. (1986) [@furste_molecular_1986]", "Promega", "Obtained from Thon de Boer, Vrije Universiteit, Amsterdam", "This work (Chapter 4)", "This work", "This work", "This work", "This work", "This work", "This work (Chapter 4)", "This work, obtained from Dr. Simon Baker", "This work", "This work", "This work", "This work", "", "This work", "This work"),
+                       `Source or reference` = c("Pharmacia", " Promega", "Van Spanning _et al_. (1990) [@van_spanning_mutagenesis_1990]", "Van Spanning _et al_. (1991a) [@van_spanning_method_1991]", "Fürste _et al_. (1986) [@furste_molecular_1986]", "Promega", "Obtained from Thon de Boer, Vrije Universiteit, Amsterdam", "This work (Chapter 4)", "This work", "This work", "This work", "This work", "This work", "This work (Chapter 4)", "This work, obtained from Dr. Simon Baker", "This work", "This work", "This work", "This work", "", "This work", "This work"),
                        check.names = FALSE)
 
 kable(table6_1,
@@ -394,7 +394,7 @@ assayed the peak 3 fractions did have a significant peroxidase activity, oxidisi
 horse heart cytochrome _c_ per minute per $\mu$l of fraction in the presence of 18 $\mu$M H$_2$O$_2$
 (Figure 6.26).
 
-```{r fig6-26, fig.cap="Assay of cytochrome _c_ peroxidase activity in peak 4 following ion exchange chromatography. The assay was performed in a volume of 1 ml, containing 50 mM Tris-HCl pH 8.0, 25 $\\mu$M horse heart cytochrome _c_ and varying volumes of the fractions from the top of peak 4. After incubation of these components for 1 minute to reduce the peroxidase (Gilmour et al., 1994), the reaction was initiated by the addition of 18 $\\mu$M H$_2$O$_2$. Oxidation of cytochrome _c_ was followed by the decrease in absorbance at 550 nm.", fig.align='center', echo=FALSE, out.width='60%'}
+```{r fig6-26, fig.cap="Assay of cytochrome _c_ peroxidase activity in peak 4 following ion exchange chromatography. The assay was performed in a volume of 1 ml, containing 50 mM Tris-HCl pH 8.0, 25 $\\mu$M horse heart cytochrome _c_ and varying volumes of the fractions from the top of peak 4. After incubation of these components for 1 minute to reduce the peroxidase (Gilmour _et al_., 1994), the reaction was initiated by the addition of 18 $\\mu$M H$_2$O$_2$. Oxidation of cytochrome _c_ was followed by the decrease in absorbance at 550 nm.", fig.align='center', echo=FALSE, out.width='60%'}
 include_graphics(path = "figure/fig6-26.png")
 ```
 

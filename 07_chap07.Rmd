@@ -32,7 +32,7 @@ The starting material for the experiments described in this chapter was total RN
 from _T. pantotropha_ that had been grown anaerobically to mid-exponential phase. The
 extraction method was based on a number of methods rather than on one specific protocol;
 cell lysis under denaturing conditions and phenol-chloroform extraction was based on the
-method of Chattopadhyay et al. (1993) [@chattopadhyay_inexpensive_1993]. A 50 ml culture typically yielded 150-200 $\mu$g of
+method of Chattopadhyay _et al_. (1993) [@chattopadhyay_inexpensive_1993]. A 50 ml culture typically yielded 150-200 $\mu$g of
 total RNA with a ratio of absorbances at A$_{260}$:A$_{280}$ of 1.5-1.9, which is considered to be of
 sufficient quality for further work [@chirgwin_isolation_1979]. The extracted total RNA was
 separated using denaturing formaldehyde agarose gel electrophoresis to determine whether
@@ -382,11 +382,11 @@ table7_1 <- data.frame(`Regulatory protein` = c("FnrP", "Nnr", "NosR", "NirI", "
                                                                      "Membrane-bound. Iron-sulphur cluster. Helix-turn-helix DNA-binding motif.",
                                                                      "Membrane-bound. Iron-sulphur cluster. Less clear helix-turn-helix DNA-binding motif than NosR.",
                                                                      "Cytoplasmic. Nucleotide-binding motif. Less clear DNA-binding motif than NirQ."),
-                       `Comments and references` = c("_P. denitrificans_ homologue of the _E. coli_ FNR protein. Regulates transcription of membrane-bound nitrate reductase, cytochrome _c_ peroxidase and _cbb_$_3$-type cytochrome _c_ oxidase (van Spanning et al. 1997) [@van_spanning_fnrp_1997].",
-                                                     "Homologue of FNR, specifically regulates transcription of nitrite and nitric oxide reductases (van Spanning et al. 1995) [@van_spanning_nitrite_1995].",
-                                                     "Identified in _P. denitrificans_ but not characterised (Hoeren et al. 1993) [@hoeren_sequence_1993]. Homologue in _Ps. stutzeri_ regulates transcription of nitrous oxide reductase (Cuypers et al. 1992) [@cuypers_nosr_1992].",
-                                                     "Homologue of NosR, but not well characterised. Regulates transcription of nitrite reductase (de Boer et al. 1994) [@de_boer_isolation_1994].",
-                                                     "Identified in _P. denitrificans_ but not well characterised. Mutants have reduced levels of nitrite and nitric oxide reductases (de Boer et al. 1996) [@de_boer_mutational_1996]. _Ps. stutzeri_ homologue, NirQ, resembles NtrC family of transcriptional activators, mutants have reduced nitrite and nitric oxide reductase activity but similar level of the proteins (Jüngst and Zumft 1992) [@jungst_interdependence_1992]."),
+                       `Comments and references` = c("_P. denitrificans_ homologue of the _E. coli_ FNR protein. Regulates transcription of membrane-bound nitrate reductase, cytochrome _c_ peroxidase and _cbb_$_3$-type cytochrome _c_ oxidase (van Spanning _et al_. 1997) [@van_spanning_fnrp_1997].",
+                                                     "Homologue of FNR, specifically regulates transcription of nitrite and nitric oxide reductases (van Spanning _et al_. 1995) [@van_spanning_nitrite_1995].",
+                                                     "Identified in _P. denitrificans_ but not characterised (Hoeren _et al_. 1993) [@hoeren_sequence_1993]. Homologue in _Ps. stutzeri_ regulates transcription of nitrous oxide reductase (Cuypers _et al_. 1992) [@cuypers_nosr_1992].",
+                                                     "Homologue of NosR, but not well characterised. Regulates transcription of nitrite reductase (de Boer _et al_. 1994) [@de_boer_isolation_1994].",
+                                                     "Identified in _P. denitrificans_ but not well characterised. Mutants have reduced levels of nitrite and nitric oxide reductases (de Boer _et al_. 1996) [@de_boer_mutational_1996]. _Ps. stutzeri_ homologue, NirQ, resembles NtrC family of transcriptional activators, mutants have reduced nitrite and nitric oxide reductase activity but similar level of the proteins (Jüngst and Zumft 1992) [@jungst_interdependence_1992]."),
                        check.names = FALSE)
 
 kable(table7_1,
