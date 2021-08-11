@@ -486,7 +486,7 @@ wild-type strain, indicating that nitrite reduction in this strain was impaired.
 blot, slightly less cytochrome _cd_$_1$ was observed in this mutant strain, and when harvested, the
 cells were noticeably pink compared to the wild-type. The kanamycin insertion lies in the
 promoter region of the _nirI_ gene, which is known to be involved in the regulation of _nirS_
-expression [de_boer_regulation_1996]. It is probable that in this mutant expression of _nirI_ is impaired
+expression [@de_boer_regulation_1996]. It is probable that in this mutant expression of _nirI_ is impaired
 but not abolished, allowing the formation of some active cytochrome _cd_$_1$. The pink colour of
 the cell pellet is possibly due to the expression of some semi-apo cytochrome _cd_$_1$, which is
 pink as it lacks the _d_$_1$ haem, and/or to the attenuated level of holo-cytochrome _cd_$_1$ which
