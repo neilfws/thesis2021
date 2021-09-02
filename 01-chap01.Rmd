@@ -176,7 +176,7 @@ At present seven primary sequences of cytochromes _cd_$_1$ are known, from the o
 Conformational changes have been observed when the enzyme is reduced, although the precise character of these changes is unknown. In addition to a decrease in $\beta$-sheet content the radius of gyration decreases as measured by small angle X-ray scattering [@berger_small-angle_1980], the thermal stability of the protein decreases [@mitra_heat_1981] and crystals of cytochrome _cd_$_1$ crack on reduction [@akey_characterization_1980]. These observations point to some kind of rearrangement in quaternary structure with a change in redox state.
 
 The orientation and relative position of the haem groups has long been a contentious issue. A slow electron transfer rate between the haems as observed by some groups suggested that they may be quite far apart. These data are contradicted by fluorescence quenching studies which indicated that the haems were grouped at one end of a subunit
-[@mitra_location_1980] and by the recently obtained structure of the _T. pantotropha_ enzyme (Section 1.5.3.1). In the latter case, the haems are at a relative angle of about 60° and the iron-iron distance between haems within a subunit is 20.6 Å [@fulop_anatomy_1995].
+[@mitra_location_1980] and by the recently obtained structure of the _T. pantotropha_ enzyme (Section 1.5.3.1). In the latter case, the haems are at a relative angle of about 60° and the iron-iron distance between haems within a subunit is 20.6 $\unicode{x212b}$ [@fulop_anatomy_1995].
 
 #### Crystal structure of the T. pantotropha enzyme
 
